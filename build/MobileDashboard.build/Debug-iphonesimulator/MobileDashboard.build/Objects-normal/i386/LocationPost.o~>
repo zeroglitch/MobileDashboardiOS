@@ -1,0 +1,14 @@
+In file included from /Users/jamie/dev/iOS/MobileDashboard/Classes/LocationPost.m:9:
+/Users/jamie/dev/iOS/MobileDashboard/Classes/LocationPost.h:13: error: expected identifier or '(' before 'required'
+/Users/jamie/dev/iOS/MobileDashboard/Classes/LocationPost.h:16: error: expected '{' before 'end'
+/Users/jamie/dev/iOS/MobileDashboard/Classes/LocationPost.h:16: warning: '@end' must appear in an @implementation context
+In file included from /Users/jamie/dev/iOS/MobileDashboard/Classes/ASIHTTPRequest.h:25,
+                 from /Users/jamie/dev/iOS/MobileDashboard/Classes/LocationPost.m:10:
+/Users/jamie/dev/iOS/MobileDashboard/Classes/ASICacheDelegate.h:57: error: expected ')' before 'ASICachePolicy'
+In file included from /Users/jamie/dev/iOS/MobileDashboard/Classes/LocationPost.m:10:
+/Users/jamie/dev/iOS/MobileDashboard/Classes/ASIHTTPRequest.h:448: error: expected specifier-qualifier-list before 'ASICachePolicy'
+/Users/jamie/dev/iOS/MobileDashboard/Classes/ASIHTTPRequest.h:545: error: expected ')' before 'ASICachePolicy'
+/Users/jamie/dev/iOS/MobileDashboard/Classes/ASIHTTPRequest.h:978: error: expected specifier-qualifier-list before 'ASICachePolicy'
+/Users/jamie/dev/iOS/MobileDashboard/Classes/LocationPost.m: In function '-[LocationPost locationUpdate::]':
+/Users/jamie/dev/iOS/MobileDashboard/Classes/LocationPost.m:25: warning: format not a string literal and no format arguments
+/Users/jamie/dev/iOS/MobileDashboard/Classes/LocationPost.m:44: warning: format not a string literal and no format arguments

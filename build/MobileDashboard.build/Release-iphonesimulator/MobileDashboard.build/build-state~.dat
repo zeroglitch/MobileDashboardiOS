@@ -1,0 +1,1287 @@
+TMobileDashboard
+v7
+r0
+t320019079.268665
+cCheck dependencies
+cProcessInfoPlistFile /Users/jamie/dev/iOS/MobileDashboard/build/Release-iphonesimulator/MobileDashboard.app/Info.plist MobileDashboard-Info.plist
+cCompileXIB /Users/jamie/dev/iOS/MobileDashboard/MainWindow.xib
+cCompileXIB /Users/jamie/dev/iOS/MobileDashboard/SecondView.xib
+cCompileXIB /Users/jamie/dev/iOS/MobileDashboard/FirstView.xib
+cCompileXIB /Users/jamie/dev/iOS/MobileDashboard/Classes/GPSViewController.xib
+cCpResource build/Release-iphonesimulator/MobileDashboard.app/Settings.bundle Settings.bundle
+cCompileXIB /Users/jamie/dev/iOS/MobileDashboard/Classes/English.lproj/LayersViewController.xib
+cCompileXIB /Users/jamie/dev/iOS/MobileDashboard/LayersCell.xib
+cCpResource build/Release-iphonesimulator/MobileDashboard.app/ems.operations.emergencyMedical.hospital.png ems.operations.emergencyMedical.hospital.png
+cCpResource build/Release-iphonesimulator/MobileDashboard.app/ems.infrastructure.education.school.png ems.infrastructure.education.school.png
+cCpResource build/Release-iphonesimulator/MobileDashboard.app/ems.infrastructure.specialCare.adultDayCare.png ems.infrastructure.specialCare.adultDayCare.png
+cCpResource build/Release-iphonesimulator/MobileDashboard.app/ems.operations.emergencyFire.fireStation.png ems.operations.emergencyFire.fireStation.png
+cCpResource build/Release-iphonesimulator/MobileDashboard.app/ems.operations.emergency.emergencyOperationsCenter.png ems.operations.emergency.emergencyOperationsCenter.png
+cCpResource build/Release-iphonesimulator/MobileDashboard.app/ems.operations.lawEnforcement.policeStation.png ems.operations.lawEnforcement.policeStation.png
+cCpResource build/Release-iphonesimulator/MobileDashboard.app/ems.infrastructure.water.publicWaterSupplyIntake.png ems.infrastructure.water.publicWaterSupplyIntake.png
+cProcessPCH /var/folders/qv/qvYwORx0F1qyBtnuKFiff++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MobileDashboard_Prefix-djhokxradwvmfmeqkxkdecqzzcrp/MobileDashboard_Prefix.pch.gch MobileDashboard_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/MobileDashboard.build/Release-iphonesimulator/MobileDashboard.build/Objects-normal/i386/main.o /Users/jamie/dev/iOS/MobileDashboard/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/MobileDashboard.build/Release-iphonesimulator/MobileDashboard.build/Objects-normal/i386/MobileDashboardAppDelegate.o /Users/jamie/dev/iOS/MobileDashboard/Classes/MobileDashboardAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/MobileDashboard.build/Release-iphonesimulator/MobileDashboard.build/Objects-normal/i386/FirstViewController.o /Users/jamie/dev/iOS/MobileDashboard/Classes/FirstViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/MobileDashboard.build/Release-iphonesimulator/MobileDashboard.build/Objects-normal/i386/GPSViewController.o /Users/jamie/dev/iOS/MobileDashboard/Classes/GPSViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/MobileDashboard.build/Release-iphonesimulator/MobileDashboard.build/Objects-normal/i386/LocationController.o /Users/jamie/dev/iOS/MobileDashboard/Classes/LocationController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/MobileDashboard.build/Release-iphonesimulator/MobileDashboard.build/Objects-normal/i386/Reachability.o /Users/jamie/dev/iOS/MobileDashboard/Classes/Reachability.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/MobileDashboard.build/Release-iphonesimulator/MobileDashboard.build/Objects-normal/i386/ASIAuthenticationDialog.o /Users/jamie/dev/iOS/MobileDashboard/Classes/ASIAuthenticationDialog.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/MobileDashboard.build/Release-iphonesimulator/MobileDashboard.build/Objects-normal/i386/ASIDataCompressor.o /Users/jamie/dev/iOS/MobileDashboard/Classes/ASIDataCompressor.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/MobileDashboard.build/Release-iphonesimulator/MobileDashboard.build/Objects-normal/i386/ASIDataDecompressor.o /Users/jamie/dev/iOS/MobileDashboard/Classes/ASIDataDecompressor.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/MobileDashboard.build/Release-iphonesimulator/MobileDashboard.build/Objects-normal/i386/ASIDownloadCache.o /Users/jamie/dev/iOS/MobileDashboard/Classes/ASIDownloadCache.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/MobileDashboard.build/Release-iphonesimulator/MobileDashboard.build/Objects-normal/i386/ASIFormDataRequest.o /Users/jamie/dev/iOS/MobileDashboard/Classes/ASIFormDataRequest.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/MobileDashboard.build/Release-iphonesimulator/MobileDashboard.build/Objects-normal/i386/ASIHTTPRequest.o /Users/jamie/dev/iOS/MobileDashboard/Classes/ASIHTTPRequest.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/MobileDashboard.build/Release-iphonesimulator/MobileDashboard.build/Objects-normal/i386/ASIInputStream.o /Users/jamie/dev/iOS/MobileDashboard/Classes/ASIInputStream.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/MobileDashboard.build/Release-iphonesimulator/MobileDashboard.build/Objects-normal/i386/ASINetworkQueue.o /Users/jamie/dev/iOS/MobileDashboard/Classes/ASINetworkQueue.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/MobileDashboard.build/Release-iphonesimulator/MobileDashboard.build/Objects-normal/i386/LocationPost.o /Users/jamie/dev/iOS/MobileDashboard/Classes/LocationPost.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/MobileDashboard.build/Release-iphonesimulator/MobileDashboard.build/Objects-normal/i386/DetailViewController.o /Users/jamie/dev/iOS/MobileDashboard/Classes/DetailViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/MobileDashboard.build/Release-iphonesimulator/MobileDashboard.build/Objects-normal/i386/KMLParser.o /Users/jamie/dev/iOS/MobileDashboard/Classes/KMLParser.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/MobileDashboard.build/Release-iphonesimulator/MobileDashboard.build/Objects-normal/i386/LayersViewController.o /Users/jamie/dev/iOS/MobileDashboard/Classes/LayersViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/MobileDashboard.build/Release-iphonesimulator/MobileDashboard.build/Objects-normal/i386/ToggleViewTableCell.o /Users/jamie/dev/iOS/MobileDashboard/Classes/ToggleViewTableCell.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/MobileDashboard.build/Release-iphonesimulator/MobileDashboard.build/Objects-normal/i386/LayersCell.o /Users/jamie/dev/iOS/MobileDashboard/Classes/LayersCell.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/MobileDashboard.build/Release-iphonesimulator/MobileDashboard.build/Objects-normal/i386/URLData.o /Users/jamie/dev/iOS/MobileDashboard/Classes/URLData.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/jamie/dev/iOS/MobileDashboard/build/Release-iphonesimulator/MobileDashboard.app/MobileDashboard normal i386
+cGenerateDSYMFile /Users/jamie/dev/iOS/MobileDashboard/build/Release-iphonesimulator/MobileDashboard.app.dSYM /Users/jamie/dev/iOS/MobileDashboard/build/Release-iphonesimulator/MobileDashboard.app/MobileDashboard
+cTouch /Users/jamie/dev/iOS/MobileDashboard/build/Release-iphonesimulator/MobileDashboard.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk
+c000000004CC128950000000000000110
+t1287727253
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
+c000000004CC1224400000000001C3D40
+t1287725636
+s1850688
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CFNetwork.framework/Headers/CFNetwork.h
+c000000004CC1221800000000000004CF
+t1287725592
+s1231
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+c000000004CC121B1000000000023EAC0
+t1287725489
+s2353856
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreFoundation.framework/Headers/CoreFoundation.h
+c000000004CC1219F0000000000000AB3
+t1287725471
+s2739
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004CC12246000000000029B310
+t1287725638
+s2732816
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreLocation.framework/CoreLocation
+c000000004CC127E80000000000074190
+t1287727080
+s475536
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreLocation.framework/Headers/CoreLocation.h
+c000000004CC127DD00000000000001D0
+t1287727069
+s464
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004CC1226D000000000029D5D0
+t1287725677
+s2741712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004CC1225F0000000000001466
+t1287725663
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/MapKit.framework/Headers/MapKit.h
+c000000004CC1294D00000000000002FE
+t1287727437
+s766
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/MapKit.framework/MapKit
+c000000004CC12977000000000017E7F0
+t1287727479
+s1566704
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/MobileCoreServices.framework/Headers/MobileCoreServices.h
+c000000004CC122CF00000000000000EB
+t1287725775
+s235
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/MobileCoreServices.framework/MobileCoreServices
+c000000004CC122D0000000000005BF20
+t1287725776
+s376608
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.h
+c000000004CC1233C00000000000000C4
+t1287725884
+s196
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/SystemConfiguration.framework/Headers/SystemConfiguration.h
+c000000004CC121E80000000000001A58
+t1287725544
+s6744
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/SystemConfiguration.framework/SystemConfiguration
+c000000004CC121F60000000000068970
+t1287725558
+s428400
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004CC1281F0000000000000AA1
+t1287727135
+s2721
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004CC12883000000000074D7B0
+t1287727235
+s7657392
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/CommonCrypto/CommonHMAC.h
+c000000004A11E8210000000000000DE2
+t1242687521
+s3554
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/arpa/inet.h
+c000000004CB3E46D0000000000001533
+t1286857837
+s5427
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/ifaddrs.h
+c000000004CB3E4770000000000000782
+t1286857847
+s1922
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/netdb.h
+c000000004A4181220000000000003057
+t1245806882
+s12375
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/netinet/in.h
+c000000004CBFACA90000000000005462
+t1287629993
+s21602
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/netinet6/in6.h
+c000000004CBFACA80000000000004F61
+t1287629992
+s20321
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/stdio.h
+c000000004CB3E48600000000000040AC
+t1286857862
+s16556
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/sys/socket.h
+c000000004CBFACAC0000000000005A69
+t1287629996
+s23145
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/zlib.h
+c000000004CC109BF00000000000102A5
+t1287719359
+s66213
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/lib/libz.1.2.3.dylib
+c000000004CC109C300000000000123B0
+t1287719363
+s74672
+
+N/Users/jamie/dev/iOS/MobileDashboard/Classes/ASIAuthenticationDialog.h
+c000000004D4EAE400000000000000453
+t1297002048
+s1107
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/jamie/dev/iOS/MobileDashboard/Classes/ASIAuthenticationDialog.m
+c000000004D4EAE400000000000003DED
+t1297002048
+s15853
+i"ASIAuthenticationDialog.h"
+i"ASIHTTPRequest.h"
+i<QuartzCore/QuartzCore.h>
+
+N/Users/jamie/dev/iOS/MobileDashboard/Classes/ASICacheDelegate.h
+c000000004D4EAE4000000000000011D1
+t1297002048
+s4561
+i<Foundation/Foundation.h>
+
+N/Users/jamie/dev/iOS/MobileDashboard/Classes/ASIDataCompressor.h
+c000000004D4EAE40000000000000072C
+t1297002048
+s1836
+i<Foundation/Foundation.h>
+i<zlib.h>
+
+N/Users/jamie/dev/iOS/MobileDashboard/Classes/ASIDataCompressor.m
+c000000004D4EAE400000000000001AAD
+t1297002048
+s6829
+i"ASIDataCompressor.h"
+i"ASIHTTPRequest.h"
+
+N/Users/jamie/dev/iOS/MobileDashboard/Classes/ASIDataDecompressor.h
+c000000004D4EAE4000000000000006A3
+t1297002048
+s1699
+i<Foundation/Foundation.h>
+i<zlib.h>
+
+N/Users/jamie/dev/iOS/MobileDashboard/Classes/ASIDataDecompressor.m
+c000000004D4EAE400000000000001968
+t1297002048
+s6504
+i"ASIDataDecompressor.h"
+i"ASIHTTPRequest.h"
+
+N/Users/jamie/dev/iOS/MobileDashboard/Classes/ASIDownloadCache.h
+c000000004D4EAE400000000000000812
+t1297002048
+s2066
+i<Foundation/Foundation.h>
+i"ASICacheDelegate.h"
+
+N/Users/jamie/dev/iOS/MobileDashboard/Classes/ASIDownloadCache.m
+c000000004D4EAE40000000000000420D
+t1297002048
+s16909
+i"ASIDownloadCache.h"
+i"ASIHTTPRequest.h"
+i<CommonCrypto/CommonHMAC.h>
+
+N/Users/jamie/dev/iOS/MobileDashboard/Classes/ASIFormDataRequest.h
+c000000004D4EAE400000000000000A6D
+t1297002048
+s2669
+i<Foundation/Foundation.h>
+i"ASIHTTPRequest.h"
+i"ASIHTTPRequestConfig.h"
+
+N/Users/jamie/dev/iOS/MobileDashboard/Classes/ASIFormDataRequest.m
+c000000004D4EAE400000000000002B6A
+t1297002048
+s11114
+i"ASIFormDataRequest.h"
+
+N/Users/jamie/dev/iOS/MobileDashboard/Classes/ASIHTTPRequest.h
+c000000004D4EAE40000000000000AB64
+t1297002048
+s43876
+i<Foundation/Foundation.h>
+i<CFNetwork/CFNetwork.h>
+i<UIKit/UIKit.h>
+i<stdio.h>
+i"ASIHTTPRequestConfig.h"
+i"ASIHTTPRequestDelegate.h"
+i"ASIProgressDelegate.h"
+i"ASICacheDelegate.h"
+
+N/Users/jamie/dev/iOS/MobileDashboard/Classes/ASIHTTPRequest.m
+c000000004D4EAE40000000000002A041
+t1297002048
+s172097
+i"ASIHTTPRequest.h"
+i"Reachability.h"
+i"ASIAuthenticationDialog.h"
+i<MobileCoreServices/MobileCoreServices.h>
+i<SystemConfiguration/SystemConfiguration.h>
+i"ASIInputStream.h"
+i"ASIDataDecompressor.h"
+i"ASIDataCompressor.h"
+
+N/Users/jamie/dev/iOS/MobileDashboard/Classes/ASIHTTPRequestConfig.h
+c000000004D4EAE4000000000000003B0
+t1297002048
+s944
+
+N/Users/jamie/dev/iOS/MobileDashboard/Classes/ASIHTTPRequestDelegate.h
+c000000004D4EAE40000000000000063E
+t1297002048
+s1598
+
+N/Users/jamie/dev/iOS/MobileDashboard/Classes/ASIInputStream.h
+c000000004D4EAE4000000000000003C9
+t1297002048
+s969
+i<Foundation/Foundation.h>
+
+N/Users/jamie/dev/iOS/MobileDashboard/Classes/ASIInputStream.m
+c000000004D4EAE400000000000000C14
+t1297002048
+s3092
+i"ASIInputStream.h"
+i"ASIHTTPRequest.h"
+
+N/Users/jamie/dev/iOS/MobileDashboard/Classes/ASINetworkQueue.h
+c000000004D4EAE40000000000000120D
+t1297002048
+s4621
+i<Foundation/Foundation.h>
+i"ASIHTTPRequestDelegate.h"
+i"ASIProgressDelegate.h"
+
+N/Users/jamie/dev/iOS/MobileDashboard/Classes/ASINetworkQueue.m
+c000000004D4EAE400000000000002C8D
+t1297002048
+s11405
+i"ASINetworkQueue.h"
+i"ASIHTTPRequest.h"
+
+N/Users/jamie/dev/iOS/MobileDashboard/Classes/ASIProgressDelegate.h
+c000000004D4EAE400000000000000678
+t1297002048
+s1656
+
+N/Users/jamie/dev/iOS/MobileDashboard/Classes/DetailViewController.h
+c000000004D5EE980000000000000017C
+t1298065792
+s380
+i<UIKit/UIKit.h>
+
+N/Users/jamie/dev/iOS/MobileDashboard/Classes/DetailViewController.m
+c000000004D5C4E7200000000000014A0
+t1297895026
+s5280
+i"DetailViewController.h"
+
+N/Users/jamie/dev/iOS/MobileDashboard/Classes/English.lproj/LayersViewController.xib
+c000000004D5F575F00000000000074D0
+t1298093919
+s29904
+
+N/Users/jamie/dev/iOS/MobileDashboard/Classes/FirstViewController.h
+c000000004D604A7B000000000000036D
+t1298156155
+s877
+i<UIKit/UIKit.h>
+i"LocationController.h"
+i"KMLParser.h"
+i<MapKit/MapKit.h>
+
+N/Users/jamie/dev/iOS/MobileDashboard/Classes/FirstViewController.m
+c000000004D62A6AC0000000000001EF2
+t1298310828
+s7922
+i"FirstViewController.h"
+i"ASIHTTPRequest.h"
+i"ASIFormDataRequest.h"
+i"URLData.h"
+
+N/Users/jamie/dev/iOS/MobileDashboard/Classes/GPSViewController.h
+c000000004D5FE5B70000000000000527
+t1298130359
+s1319
+i<UIKit/UIKit.h>
+i"LocationController.h"
+
+N/Users/jamie/dev/iOS/MobileDashboard/Classes/GPSViewController.m
+c000000004D5FE6F10000000000002828
+t1298130673
+s10280
+i"GPSViewController.h"
+i"ASIHTTPRequest.h"
+i"ASIFormDataRequest.h"
+i"LocationPost.h"
+i"DetailViewController.h"
+i"URLData.h"
+
+N/Users/jamie/dev/iOS/MobileDashboard/Classes/GPSViewController.xib
+c000000004D5F571A0000000000007FC1
+t1298093850
+s32705
+
+N/Users/jamie/dev/iOS/MobileDashboard/Classes/KMLParser.h
+c000000004D612C880000000000000CC7
+t1298214024
+s3271
+i<MapKit/MapKit.h>
+
+N/Users/jamie/dev/iOS/MobileDashboard/Classes/KMLParser.m
+c000000004D62A4960000000000006F24
+t1298310294
+s28452
+i"KMLParser.h"
+
+N/Users/jamie/dev/iOS/MobileDashboard/Classes/LayersCell.h
+c000000004D5F498F00000000000001F7
+t1298090383
+s503
+i<UIKit/UIKit.h>
+
+N/Users/jamie/dev/iOS/MobileDashboard/Classes/LayersCell.m
+c000000004D5F4D6400000000000002CB
+t1298091364
+s715
+i"LayersCell.h"
+
+N/Users/jamie/dev/iOS/MobileDashboard/Classes/LayersViewController.h
+c000000004D6081ED00000000000002C0
+t1298170349
+s704
+i<UIKit/UIKit.h>
+i"FirstViewController.h"
+
+N/Users/jamie/dev/iOS/MobileDashboard/Classes/LayersViewController.m
+c000000004D62A6720000000000001AD4
+t1298310770
+s6868
+i"LayersViewController.h"
+i"LayersCell.h"
+i"URLData.h"
+i"FirstViewController.h"
+
+N/Users/jamie/dev/iOS/MobileDashboard/Classes/LocationController.h
+c000000004D55802700000000000002A0
+t1297448999
+s672
+i<Foundation/Foundation.h>
+i<CoreLocation/CoreLocation.h>
+
+N/Users/jamie/dev/iOS/MobileDashboard/Classes/LocationController.m
+c000000004D55808F00000000000003D6
+t1297449103
+s982
+i"LocationController.h"
+
+N/Users/jamie/dev/iOS/MobileDashboard/Classes/LocationPost.h
+c000000004D56B28300000000000001AF
+t1297527427
+s431
+i<Foundation/Foundation.h>
+i<CoreLocation/CoreLocation.h>
+
+N/Users/jamie/dev/iOS/MobileDashboard/Classes/LocationPost.m
+c000000004D5629D000000000000005DF
+t1297492432
+s1503
+i"LocationPost.h"
+i"ASIHTTPRequest.h"
+i"ASIFormDataRequest.h"
+
+N/Users/jamie/dev/iOS/MobileDashboard/Classes/MobileDashboardAppDelegate.h
+c000000004D60443E000000000000046A
+t1298154558
+s1130
+i<UIKit/UIKit.h>
+i"GPSViewController.h"
+i"FirstViewController.h"
+i"LayersViewController.h"
+i"URLData.h"
+
+N/Users/jamie/dev/iOS/MobileDashboard/Classes/MobileDashboardAppDelegate.m
+c000000004D61AB430000000000001F13
+t1298246467
+s7955
+i"MobileDashboardAppDelegate.h"
+i"URLData.h"
+
+N/Users/jamie/dev/iOS/MobileDashboard/Classes/Reachability.h
+c000000004D4EAE400000000000001D0E
+t1297002048
+s7438
+i<Foundation/Foundation.h>
+i<SystemConfiguration/SystemConfiguration.h>
+
+N/Users/jamie/dev/iOS/MobileDashboard/Classes/Reachability.m
+c000000004D4EAE400000000000005E0C
+t1297002048
+s24076
+i<sys/socket.h>
+i<netinet/in.h>
+i<netinet6/in6.h>
+i<arpa/inet.h>
+i<ifaddrs.h>
+i<netdb.h>
+i<CoreFoundation/CoreFoundation.h>
+i"Reachability.h"
+
+N/Users/jamie/dev/iOS/MobileDashboard/Classes/ToggleViewTableCell.h
+c000000004D5F03B1000000000000034E
+t1298072497
+s846
+i<UIKit/UIKit.h>
+
+N/Users/jamie/dev/iOS/MobileDashboard/Classes/ToggleViewTableCell.m
+c000000004D5EF3320000000000000736
+t1298068274
+s1846
+i"ToggleViewTableCell.h"
+
+N/Users/jamie/dev/iOS/MobileDashboard/Classes/URLData.h
+c000000004D612A570000000000000235
+t1298213463
+s565
+i<Foundation/Foundation.h>
+i"KMLParser.h"
+
+N/Users/jamie/dev/iOS/MobileDashboard/Classes/URLData.m
+c000000004D612A5A0000000000000162
+t1298213466
+s354
+i"URLData.h"
+
+N/Users/jamie/dev/iOS/MobileDashboard/FirstView.xib
+c000000004D5DD86C0000000000004A1C
+t1297995884
+s18972
+
+N/Users/jamie/dev/iOS/MobileDashboard/LayersCell.xib
+c000000004D5F5B1A0000000000004C20
+t1298094874
+s19488
+
+N/Users/jamie/dev/iOS/MobileDashboard/MainWindow.xib
+c000000004D5EF46200000000000091B8
+t1298068578
+s37304
+
+N/Users/jamie/dev/iOS/MobileDashboard/MobileDashboard_Prefix.pch
+c000000004D54C8D200000000000000C7
+t1297402066
+s199
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/jamie/dev/iOS/MobileDashboard/SecondView.xib
+c000000004D54C8D200000000000049D7
+t1297402066
+s18903
+
+N/Users/jamie/dev/iOS/MobileDashboard/Settings.bundle
+c000000004D5D6FB70000000000000088
+t1297969079
+s136
+
+N/Users/jamie/dev/iOS/MobileDashboard/build/MobileDashboard.build/Release-iphonesimulator/MobileDashboard.build/Objects-normal/i386/ASIAuthenticationDialog.o
+t1298326267
+s101868
+
+N/Users/jamie/dev/iOS/MobileDashboard/build/MobileDashboard.build/Release-iphonesimulator/MobileDashboard.build/Objects-normal/i386/ASIDataCompressor.o
+t1298326267
+s21428
+
+N/Users/jamie/dev/iOS/MobileDashboard/build/MobileDashboard.build/Release-iphonesimulator/MobileDashboard.build/Objects-normal/i386/ASIDataDecompressor.o
+t1298326267
+s21376
+
+N/Users/jamie/dev/iOS/MobileDashboard/build/MobileDashboard.build/Release-iphonesimulator/MobileDashboard.build/Objects-normal/i386/ASIDownloadCache.o
+t1298326268
+s55132
+
+N/Users/jamie/dev/iOS/MobileDashboard/build/MobileDashboard.build/Release-iphonesimulator/MobileDashboard.build/Objects-normal/i386/ASIFormDataRequest.o
+t1298326267
+s45336
+
+N/Users/jamie/dev/iOS/MobileDashboard/build/MobileDashboard.build/Release-iphonesimulator/MobileDashboard.build/Objects-normal/i386/ASIHTTPRequest.o
+t1298326278
+s444268
+
+N/Users/jamie/dev/iOS/MobileDashboard/build/MobileDashboard.build/Release-iphonesimulator/MobileDashboard.build/Objects-normal/i386/ASIInputStream.o
+t1298326268
+s27092
+
+N/Users/jamie/dev/iOS/MobileDashboard/build/MobileDashboard.build/Release-iphonesimulator/MobileDashboard.build/Objects-normal/i386/ASINetworkQueue.o
+t1298326268
+s57948
+
+N/Users/jamie/dev/iOS/MobileDashboard/build/MobileDashboard.build/Release-iphonesimulator/MobileDashboard.build/Objects-normal/i386/DetailViewController.o
+t1298326268
+s44380
+
+N/Users/jamie/dev/iOS/MobileDashboard/build/MobileDashboard.build/Release-iphonesimulator/MobileDashboard.build/Objects-normal/i386/FirstViewController.o
+t1298326266
+s65780
+
+N/Users/jamie/dev/iOS/MobileDashboard/build/MobileDashboard.build/Release-iphonesimulator/MobileDashboard.build/Objects-normal/i386/GPSViewController.o
+t1298326267
+s72520
+
+N/Users/jamie/dev/iOS/MobileDashboard/build/MobileDashboard.build/Release-iphonesimulator/MobileDashboard.build/Objects-normal/i386/KMLParser.o
+t1298326269
+s114476
+
+N/Users/jamie/dev/iOS/MobileDashboard/build/MobileDashboard.build/Release-iphonesimulator/MobileDashboard.build/Objects-normal/i386/LayersCell.o
+t1298326270
+s41052
+
+N/Users/jamie/dev/iOS/MobileDashboard/build/MobileDashboard.build/Release-iphonesimulator/MobileDashboard.build/Objects-normal/i386/LayersViewController.o
+t1298326270
+s53156
+
+N/Users/jamie/dev/iOS/MobileDashboard/build/MobileDashboard.build/Release-iphonesimulator/MobileDashboard.build/Objects-normal/i386/LocationController.o
+t1298326266
+s15304
+
+N/Users/jamie/dev/iOS/MobileDashboard/build/MobileDashboard.build/Release-iphonesimulator/MobileDashboard.build/Objects-normal/i386/LocationPost.o
+t1298326268
+s17036
+
+N/Users/jamie/dev/iOS/MobileDashboard/build/MobileDashboard.build/Release-iphonesimulator/MobileDashboard.build/Objects-normal/i386/MobileDashboard.LinkFileList
+c000000004D62E2F70000000000000C47
+t1298326263
+s3143
+
+N/Users/jamie/dev/iOS/MobileDashboard/build/MobileDashboard.build/Release-iphonesimulator/MobileDashboard.build/Objects-normal/i386/MobileDashboardAppDelegate.o
+t1298326266
+s70060
+
+N/Users/jamie/dev/iOS/MobileDashboard/build/MobileDashboard.build/Release-iphonesimulator/MobileDashboard.build/Objects-normal/i386/Reachability.o
+t1298326267
+s27704
+
+N/Users/jamie/dev/iOS/MobileDashboard/build/MobileDashboard.build/Release-iphonesimulator/MobileDashboard.build/Objects-normal/i386/ToggleViewTableCell.o
+t1298326270
+s41668
+
+N/Users/jamie/dev/iOS/MobileDashboard/build/MobileDashboard.build/Release-iphonesimulator/MobileDashboard.build/Objects-normal/i386/URLData.o
+t1298326270
+s12452
+
+N/Users/jamie/dev/iOS/MobileDashboard/build/MobileDashboard.build/Release-iphonesimulator/MobileDashboard.build/Objects-normal/i386/main.o
+t1298326266
+s6284
+
+N/Users/jamie/dev/iOS/MobileDashboard/build/Release-iphonesimulator/MobileDashboard.app
+t1298326279
+s646
+
+N/Users/jamie/dev/iOS/MobileDashboard/build/Release-iphonesimulator/MobileDashboard.app.dSYM
+t1298326279
+s102
+
+N/Users/jamie/dev/iOS/MobileDashboard/build/Release-iphonesimulator/MobileDashboard.app/English.lproj/LayersViewController.nib
+t1298326265
+s2349
+
+N/Users/jamie/dev/iOS/MobileDashboard/build/Release-iphonesimulator/MobileDashboard.app/FirstView.nib
+t1298326264
+s1189
+
+N/Users/jamie/dev/iOS/MobileDashboard/build/Release-iphonesimulator/MobileDashboard.app/GPSViewController.nib
+t1298326264
+s2439
+
+N/Users/jamie/dev/iOS/MobileDashboard/build/Release-iphonesimulator/MobileDashboard.app/Info.plist
+t1298326263
+s629
+
+N/Users/jamie/dev/iOS/MobileDashboard/build/Release-iphonesimulator/MobileDashboard.app/LayersCell.nib
+t1298326265
+s1792
+
+N/Users/jamie/dev/iOS/MobileDashboard/build/Release-iphonesimulator/MobileDashboard.app/MainWindow.nib
+t1298326264
+s1810
+
+N/Users/jamie/dev/iOS/MobileDashboard/build/Release-iphonesimulator/MobileDashboard.app/MobileDashboard
+t1298326279
+s427932
+
+N/Users/jamie/dev/iOS/MobileDashboard/build/Release-iphonesimulator/MobileDashboard.app/PkgInfo
+t1298326263
+s8
+
+N/Users/jamie/dev/iOS/MobileDashboard/build/Release-iphonesimulator/MobileDashboard.app/SecondView.nib
+t1298326264
+s1742
+
+N/Users/jamie/dev/iOS/MobileDashboard/build/Release-iphonesimulator/MobileDashboard.app/Settings.bundle
+t1298326264
+s136
+
+N/Users/jamie/dev/iOS/MobileDashboard/build/Release-iphonesimulator/MobileDashboard.app/ems.infrastructure.education.school.png
+t1298326265
+s4033
+
+N/Users/jamie/dev/iOS/MobileDashboard/build/Release-iphonesimulator/MobileDashboard.app/ems.infrastructure.specialCare.adultDayCare.png
+t1298326265
+s3825
+
+N/Users/jamie/dev/iOS/MobileDashboard/build/Release-iphonesimulator/MobileDashboard.app/ems.infrastructure.water.publicWaterSupplyIntake.png
+t1298326265
+s3503
+
+N/Users/jamie/dev/iOS/MobileDashboard/build/Release-iphonesimulator/MobileDashboard.app/ems.operations.emergency.emergencyOperationsCenter.png
+t1298326265
+s3841
+
+N/Users/jamie/dev/iOS/MobileDashboard/build/Release-iphonesimulator/MobileDashboard.app/ems.operations.emergencyFire.fireStation.png
+t1298326265
+s3946
+
+N/Users/jamie/dev/iOS/MobileDashboard/build/Release-iphonesimulator/MobileDashboard.app/ems.operations.emergencyMedical.hospital.png
+t1298326265
+s3815
+
+N/Users/jamie/dev/iOS/MobileDashboard/build/Release-iphonesimulator/MobileDashboard.app/ems.operations.lawEnforcement.policeStation.png
+t1298326265
+s3935
+
+N/Users/jamie/dev/iOS/MobileDashboard/ems.infrastructure.education.school.png
+c000000004D615DF80000000000000FC1
+t1298226680
+s4033
+
+N/Users/jamie/dev/iOS/MobileDashboard/ems.infrastructure.specialCare.adultDayCare.png
+c000000004D615E040000000000000EF1
+t1298226692
+s3825
+
+N/Users/jamie/dev/iOS/MobileDashboard/ems.infrastructure.water.publicWaterSupplyIntake.png
+c000000004D615E4C0000000000000DAF
+t1298226764
+s3503
+
+N/Users/jamie/dev/iOS/MobileDashboard/ems.operations.emergency.emergencyOperationsCenter.png
+c000000004D615E280000000000000F01
+t1298226728
+s3841
+
+N/Users/jamie/dev/iOS/MobileDashboard/ems.operations.emergencyFire.fireStation.png
+c000000004D615E130000000000000F6A
+t1298226707
+s3946
+
+N/Users/jamie/dev/iOS/MobileDashboard/ems.operations.emergencyMedical.hospital.png
+c000000004D615DCA0000000000000EE7
+t1298226634
+s3815
+
+N/Users/jamie/dev/iOS/MobileDashboard/ems.operations.lawEnforcement.policeStation.png
+c000000004D615E400000000000000F5F
+t1298226752
+s3935
+
+N/Users/jamie/dev/iOS/MobileDashboard/main.m
+c000000004D54C8D2000000000000016F
+t1297402066
+s367
+i<UIKit/UIKit.h>
+
+N/var/folders/qv/qvYwORx0F1qyBtnuKFiff++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MobileDashboard_Prefix-djhokxradwvmfmeqkxkdecqzzcrp/MobileDashboard_Prefix.pch.gch
+t1298326266
+s15113424
+
+NMobileDashboard-Info.plist
+c000000004D54C8D2000000000000038D
+t1297402066
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies320019063#320019063#0(0"0(0#1#0"8692804896#0"0#
+
+CCompileC build/MobileDashboard.build/Release-iphonesimulator/MobileDashboard.build/Objects-normal/i386/ASIAuthenticationDialog.o /Users/jamie/dev/iOS/MobileDashboard/Classes/ASIAuthenticationDialog.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s320019067.058594
+e320019067.621696
+r1
+xCompileC
+xbuild/MobileDashboard.build/Release-iphonesimulator/MobileDashboard.build/Objects-normal/i386/ASIAuthenticationDialog.o
+x/Users/jamie/dev/iOS/MobileDashboard/Classes/ASIAuthenticationDialog.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@78"Compile /Users/jamie/dev/iOS/MobileDashboard/Classes/ASIAuthenticationDialog.m320019067#320019067#0(0"0(0#0#70"/Users/jamie/dev/iOS/MobileDashboard/Classes/ASIAuthenticationDialog.m8681769152#2157"    cd /Users/jamie/dev/iOS/MobileDashboard    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/jamie/dev/iOS/MobileDashboard/build/MobileDashboard.build/Release-iphonesimulator/MobileDashboard.build/MobileDashboard-generated-files.hmap -I/Users/jamie/dev/iOS/MobileDashboard/build/MobileDashboard.build/Release-iphonesimulator/MobileDashboard.build/MobileDashboard-own-target-headers.hmap -I/Users/jamie/dev/iOS/MobileDashboard/build/MobileDashboard.build/Release-iphonesimulator/MobileDashboard.build/MobileDashboard-all-target-headers.hmap -iquote /Users/jamie/dev/iOS/MobileDashboard/build/MobileDashboard.build/Release-iphonesimulator/MobileDashboard.build/MobileDashboard-project-headers.hmap -F/Users/jamie/dev/iOS/MobileDashboard/build/Release-iphonesimulator -I/Users/jamie/dev/iOS/MobileDashboard/build/Release-iphonesimulator/include -I/Users/jamie/dev/iOS/MobileDashboard/build/MobileDashboard.build/Release-iphonesimulator/MobileDashboard.build/DerivedSources/i386 -I/Users/jamie/dev/iOS/MobileDashboard/build/MobileDashboard.build/Release-iphonesimulator/MobileDashboard.build/DerivedSources -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/qv/qvYwORx0F1qyBtnuKFiff++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MobileDashboard_Prefix-djhokxradwvmfmeqkxkdecqzzcrp/MobileDashboard_Prefix.pch -c /Users/jamie/dev/iOS/MobileDashboard/Classes/ASIAuthenticationDialog.m -o /Users/jamie/dev/iOS/MobileDashboard/build/MobileDashboard.build/Release-iphonesimulator/MobileDashboard.build/Objects-normal/i386/ASIAuthenticationDialog.o0#
+
+CCompileC build/MobileDashboard.build/Release-iphonesimulator/MobileDashboard.build/Objects-normal/i386/ASIDataCompressor.o /Users/jamie/dev/iOS/MobileDashboard/Classes/ASIDataCompressor.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s320019067.153844
+e320019067.365698
+r1
+xCompileC
+xbuild/MobileDashboard.build/Release-iphonesimulator/MobileDashboard.build/Objects-normal/i386/ASIDataCompressor.o
+x/Users/jamie/dev/iOS/MobileDashboard/Classes/ASIDataCompressor.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@72"Compile /Users/jamie/dev/iOS/MobileDashboard/Classes/ASIDataCompressor.m320019067#320019067#0(0"0(0#0#64"/Users/jamie/dev/iOS/MobileDashboard/Classes/ASIDataCompressor.m8668123328#2145"    cd /Users/jamie/dev/iOS/MobileDashboard    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/jamie/dev/iOS/MobileDashboard/build/MobileDashboard.build/Release-iphonesimulator/MobileDashboard.build/MobileDashboard-generated-files.hmap -I/Users/jamie/dev/iOS/MobileDashboard/build/MobileDashboard.build/Release-iphonesimulator/MobileDashboard.build/MobileDashboard-own-target-headers.hmap -I/Users/jamie/dev/iOS/MobileDashboard/build/MobileDashboard.build/Release-iphonesimulator/MobileDashboard.build/MobileDashboard-all-target-headers.hmap -iquote /Users/jamie/dev/iOS/MobileDashboard/build/MobileDashboard.build/Release-iphonesimulator/MobileDashboard.build/MobileDashboard-project-headers.hmap -F/Users/jamie/dev/iOS/MobileDashboard/build/Release-iphonesimulator -I/Users/jamie/dev/iOS/MobileDashboard/build/Release-iphonesimulator/include -I/Users/jamie/dev/iOS/MobileDashboard/build/MobileDashboard.build/Release-iphonesimulator/MobileDashboard.build/DerivedSources/i386 -I/Users/jamie/dev/iOS/MobileDashboard/build/MobileDashboard.build/Release-iphonesimulator/MobileDashboard.build/DerivedSources -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/qv/qvYwORx0F1qyBtnuKFiff++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MobileDashboard_Prefix-djhokxradwvmfmeqkxkdecqzzcrp/MobileDashboard_Prefix.pch -c /Users/jamie/dev/iOS/MobileDashboard/Classes/ASIDataCompressor.m -o /Users/jamie/dev/iOS/MobileDashboard/build/MobileDashboard.build/Release-iphonesimulator/MobileDashboard.build/Objects-normal/i386/ASIDataCompressor.o0#
+
+CCompileC build/MobileDashboard.build/Release-iphonesimulator/MobileDashboard.build/Objects-normal/i386/ASIDataDecompressor.o /Users/jamie/dev/iOS/MobileDashboard/Classes/ASIDataDecompressor.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s320019067.365790
+e320019067.575880
+r1
+xCompileC
+xbuild/MobileDashboard.build/Release-iphonesimulator/MobileDashboard.build/Objects-normal/i386/ASIDataDecompressor.o
+x/Users/jamie/dev/iOS/MobileDashboard/Classes/ASIDataDecompressor.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@74"Compile /Users/jamie/dev/iOS/MobileDashboard/Classes/ASIDataDecompressor.m320019067#320019067#0(0"0(0#0#66"/Users/jamie/dev/iOS/MobileDashboard/Classes/ASIDataDecompressor.m8693627936#2149"    cd /Users/jamie/dev/iOS/MobileDashboard    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/jamie/dev/iOS/MobileDashboard/build/MobileDashboard.build/Release-iphonesimulator/MobileDashboard.build/MobileDashboard-generated-files.hmap -I/Users/jamie/dev/iOS/MobileDashboard/build/MobileDashboard.build/Release-iphonesimulator/MobileDashboard.build/MobileDashboard-own-target-headers.hmap -I/Users/jamie/dev/iOS/MobileDashboard/build/MobileDashboard.build/Release-iphonesimulator/MobileDashboard.build/MobileDashboard-all-target-headers.hmap -iquote /Users/jamie/dev/iOS/MobileDashboard/build/MobileDashboard.build/Release-iphonesimulator/MobileDashboard.build/MobileDashboard-project-headers.hmap -F/Users/jamie/dev/iOS/MobileDashboard/build/Release-iphonesimulator -I/Users/jamie/dev/iOS/MobileDashboard/build/Release-iphonesimulator/include -I/Users/jamie/dev/iOS/MobileDashboard/build/MobileDashboard.build/Release-iphonesimulator/MobileDashboard.build/DerivedSources/i386 -I/Users/jamie/dev/iOS/MobileDashboard/build/MobileDashboard.build/Release-iphonesimulator/MobileDashboard.build/DerivedSources -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/qv/qvYwORx0F1qyBtnuKFiff++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MobileDashboard_Prefix-djhokxradwvmfmeqkxkdecqzzcrp/MobileDashboard_Prefix.pch -c /Users/jamie/dev/iOS/MobileDashboard/Classes/ASIDataDecompressor.m -o /Users/jamie/dev/iOS/MobileDashboard/build/MobileDashboard.build/Release-iphonesimulator/MobileDashboard.build/Objects-normal/i386/ASIDataDecompressor.o0#
+
+CCompileC build/MobileDashboard.build/Release-iphonesimulator/MobileDashboard.build/Objects-normal/i386/ASIDownloadCache.o /Users/jamie/dev/iOS/MobileDashboard/Classes/ASIDownloadCache.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s320019067.575977
+e320019068.072447
+r1
+xCompileC
+xbuild/MobileDashboard.build/Release-iphonesimulator/MobileDashboard.build/Objects-normal/i386/ASIDownloadCache.o
+x/Users/jamie/dev/iOS/MobileDashboard/Classes/ASIDownloadCache.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@71"Compile /Users/jamie/dev/iOS/MobileDashboard/Classes/ASIDownloadCache.m320019067#320019068#0(0"0(0#0#63"/Users/jamie/dev/iOS/MobileDashboard/Classes/ASIDownloadCache.m8682252832#2143"    cd /Users/jamie/dev/iOS/MobileDashboard    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/jamie/dev/iOS/MobileDashboard/build/MobileDashboard.build/Release-iphonesimulator/MobileDashboard.build/MobileDashboard-generated-files.hmap -I/Users/jamie/dev/iOS/MobileDashboard/build/MobileDashboard.build/Release-iphonesimulator/MobileDashboard.build/MobileDashboard-own-target-headers.hmap -I/Users/jamie/dev/iOS/MobileDashboard/build/MobileDashboard.build/Release-iphonesimulator/MobileDashboard.build/MobileDashboard-all-target-headers.hmap -iquote /Users/jamie/dev/iOS/MobileDashboard/build/MobileDashboard.build/Release-iphonesimulator/MobileDashboard.build/MobileDashboard-project-headers.hmap -F/Users/jamie/dev/iOS/MobileDashboard/build/Release-iphonesimulator -I/Users/jamie/dev/iOS/MobileDashboard/build/Release-iphonesimulator/include -I/Users/jamie/dev/iOS/MobileDashboard/build/MobileDashboard.build/Release-iphonesimulator/MobileDashboard.build/DerivedSources/i386 -I/Users/jamie/dev/iOS/MobileDashboard/build/MobileDashboard.build/Release-iphonesimulator/MobileDashboard.build/DerivedSources -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/qv/qvYwORx0F1qyBtnuKFiff++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MobileDashboard_Prefix-djhokxradwvmfmeqkxkdecqzzcrp/MobileDashboard_Prefix.pch -c /Users/jamie/dev/iOS/MobileDashboard/Classes/ASIDownloadCache.m -o /Users/jamie/dev/iOS/MobileDashboard/build/MobileDashboard.build/Release-iphonesimulator/MobileDashboard.build/Objects-normal/i386/ASIDownloadCache.o0#
+
+CCompileC build/MobileDashboard.build/Release-iphonesimulator/MobileDashboard.build/Objects-normal/i386/ASIFormDataRequest.o /Users/jamie/dev/iOS/MobileDashboard/Classes/ASIFormDataRequest.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s320019067.621785
+e320019067.996129
+r1
+xCompileC
+xbuild/MobileDashboard.build/Release-iphonesimulator/MobileDashboard.build/Objects-normal/i386/ASIFormDataRequest.o
+x/Users/jamie/dev/iOS/MobileDashboard/Classes/ASIFormDataRequest.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@73"Compile /Users/jamie/dev/iOS/MobileDashboard/Classes/ASIFormDataRequest.m320019067#320019067#0(0"0(0#0#65"/Users/jamie/dev/iOS/MobileDashboard/Classes/ASIFormDataRequest.m8680899616#2147"    cd /Users/jamie/dev/iOS/MobileDashboard    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/jamie/dev/iOS/MobileDashboard/build/MobileDashboard.build/Release-iphonesimulator/MobileDashboard.build/MobileDashboard-generated-files.hmap -I/Users/jamie/dev/iOS/MobileDashboard/build/MobileDashboard.build/Release-iphonesimulator/MobileDashboard.build/MobileDashboard-own-target-headers.hmap -I/Users/jamie/dev/iOS/MobileDashboard/build/MobileDashboard.build/Release-iphonesimulator/MobileDashboard.build/MobileDashboard-all-target-headers.hmap -iquote /Users/jamie/dev/iOS/MobileDashboard/build/MobileDashboard.build/Release-iphonesimulator/MobileDashboard.build/MobileDashboard-project-headers.hmap -F/Users/jamie/dev/iOS/MobileDashboard/build/Release-iphonesimulator -I/Users/jamie/dev/iOS/MobileDashboard/build/Release-iphonesimulator/include -I/Users/jamie/dev/iOS/MobileDashboard/build/MobileDashboard.build/Release-iphonesimulator/MobileDashboard.build/DerivedSources/i386 -I/Users/jamie/dev/iOS/MobileDashboard/build/MobileDashboard.build/Release-iphonesimulator/MobileDashboard.build/DerivedSources -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/qv/qvYwORx0F1qyBtnuKFiff++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MobileDashboard_Prefix-djhokxradwvmfmeqkxkdecqzzcrp/MobileDashboard_Prefix.pch -c /Users/jamie/dev/iOS/MobileDashboard/Classes/ASIFormDataRequest.m -o /Users/jamie/dev/iOS/MobileDashboard/build/MobileDashboard.build/Release-iphonesimulator/MobileDashboard.build/Objects-normal/i386/ASIFormDataRequest.o0#
+
+CCompileC build/MobileDashboard.build/Release-iphonesimulator/MobileDashboard.build/Objects-normal/i386/ASIHTTPRequest.o /Users/jamie/dev/iOS/MobileDashboard/Classes/ASIHTTPRequest.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s320019067.996212
+e320019078.763078
+r1
+xCompileC
+xbuild/MobileDashboard.build/Release-iphonesimulator/MobileDashboard.build/Objects-normal/i386/ASIHTTPRequest.o
+x/Users/jamie/dev/iOS/MobileDashboard/Classes/ASIHTTPRequest.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@69"Compile /Users/jamie/dev/iOS/MobileDashboard/Classes/ASIHTTPRequest.m320019067#320019078#0(0"0(0#0#61"/Users/jamie/dev/iOS/MobileDashboard/Classes/ASIHTTPRequest.m8683187104#2139"    cd /Users/jamie/dev/iOS/MobileDashboard    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/jamie/dev/iOS/MobileDashboard/build/MobileDashboard.build/Release-iphonesimulator/MobileDashboard.build/MobileDashboard-generated-files.hmap -I/Users/jamie/dev/iOS/MobileDashboard/build/MobileDashboard.build/Release-iphonesimulator/MobileDashboard.build/MobileDashboard-own-target-headers.hmap -I/Users/jamie/dev/iOS/MobileDashboard/build/MobileDashboard.build/Release-iphonesimulator/MobileDashboard.build/MobileDashboard-all-target-headers.hmap -iquote /Users/jamie/dev/iOS/MobileDashboard/build/MobileDashboard.build/Release-iphonesimulator/MobileDashboard.build/MobileDashboard-project-headers.hmap -F/Users/jamie/dev/iOS/MobileDashboard/build/Release-iphonesimulator -I/Users/jamie/dev/iOS/MobileDashboard/build/Release-iphonesimulator/include -I/Users/jamie/dev/iOS/MobileDashboard/build/MobileDashboard.build/Release-iphonesimulator/MobileDashboard.build/DerivedSources/i386 -I/Users/jamie/dev/iOS/MobileDashboard/build/MobileDashboard.build/Release-iphonesimulator/MobileDashboard.build/DerivedSources -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/qv/qvYwORx0F1qyBtnuKFiff++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MobileDashboard_Prefix-djhokxradwvmfmeqkxkdecqzzcrp/MobileDashboard_Prefix.pch -c /Users/jamie/dev/iOS/MobileDashboard/Classes/ASIHTTPRequest.m -o /Users/jamie/dev/iOS/MobileDashboard/build/MobileDashboard.build/Release-iphonesimulator/MobileDashboard.build/Objects-normal/i386/ASIHTTPRequest.o0#
+
+CCompileC build/MobileDashboard.build/Release-iphonesimulator/MobileDashboard.build/Objects-normal/i386/ASIInputStream.o /Users/jamie/dev/iOS/MobileDashboard/Classes/ASIInputStream.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s320019068.072921
+e320019068.236743
+r1
+xCompileC
+xbuild/MobileDashboard.build/Release-iphonesimulator/MobileDashboard.build/Objects-normal/i386/ASIInputStream.o
+x/Users/jamie/dev/iOS/MobileDashboard/Classes/ASIInputStream.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@69"Compile /Users/jamie/dev/iOS/MobileDashboard/Classes/ASIInputStream.m320019068#320019068#0(0"0(0#0#61"/Users/jamie/dev/iOS/MobileDashboard/Classes/ASIInputStream.m8667058016#2139"    cd /Users/jamie/dev/iOS/MobileDashboard    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/jamie/dev/iOS/MobileDashboard/build/MobileDashboard.build/Release-iphonesimulator/MobileDashboard.build/MobileDashboard-generated-files.hmap -I/Users/jamie/dev/iOS/MobileDashboard/build/MobileDashboard.build/Release-iphonesimulator/MobileDashboard.build/MobileDashboard-own-target-headers.hmap -I/Users/jamie/dev/iOS/MobileDashboard/build/MobileDashboard.build/Release-iphonesimulator/MobileDashboard.build/MobileDashboard-all-target-headers.hmap -iquote /Users/jamie/dev/iOS/MobileDashboard/build/MobileDashboard.build/Release-iphonesimulator/MobileDashboard.build/MobileDashboard-project-headers.hmap -F/Users/jamie/dev/iOS/MobileDashboard/build/Release-iphonesimulator -I/Users/jamie/dev/iOS/MobileDashboard/build/Release-iphonesimulator/include -I/Users/jamie/dev/iOS/MobileDashboard/build/MobileDashboard.build/Release-iphonesimulator/MobileDashboard.build/DerivedSources/i386 -I/Users/jamie/dev/iOS/MobileDashboard/build/MobileDashboard.build/Release-iphonesimulator/MobileDashboard.build/DerivedSources -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/qv/qvYwORx0F1qyBtnuKFiff++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MobileDashboard_Prefix-djhokxradwvmfmeqkxkdecqzzcrp/MobileDashboard_Prefix.pch -c /Users/jamie/dev/iOS/MobileDashboard/Classes/ASIInputStream.m -o /Users/jamie/dev/iOS/MobileDashboard/build/MobileDashboard.build/Release-iphonesimulator/MobileDashboard.build/Objects-normal/i386/ASIInputStream.o0#
+
+CCompileC build/MobileDashboard.build/Release-iphonesimulator/MobileDashboard.build/Objects-normal/i386/ASINetworkQueue.o /Users/jamie/dev/iOS/MobileDashboard/Classes/ASINetworkQueue.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s320019068.236937
+e320019068.684005
+r1
+xCompileC
+xbuild/MobileDashboard.build/Release-iphonesimulator/MobileDashboard.build/Objects-normal/i386/ASINetworkQueue.o
+x/Users/jamie/dev/iOS/MobileDashboard/Classes/ASINetworkQueue.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@70"Compile /Users/jamie/dev/iOS/MobileDashboard/Classes/ASINetworkQueue.m320019068#320019068#0(0"0(0#0#62"/Users/jamie/dev/iOS/MobileDashboard/Classes/ASINetworkQueue.m8693259296#2141"    cd /Users/jamie/dev/iOS/MobileDashboard    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/jamie/dev/iOS/MobileDashboard/build/MobileDashboard.build/Release-iphonesimulator/MobileDashboard.build/MobileDashboard-generated-files.hmap -I/Users/jamie/dev/iOS/MobileDashboard/build/MobileDashboard.build/Release-iphonesimulator/MobileDashboard.build/MobileDashboard-own-target-headers.hmap -I/Users/jamie/dev/iOS/MobileDashboard/build/MobileDashboard.build/Release-iphonesimulator/MobileDashboard.build/MobileDashboard-all-target-headers.hmap -iquote /Users/jamie/dev/iOS/MobileDashboard/build/MobileDashboard.build/Release-iphonesimulator/MobileDashboard.build/MobileDashboard-project-headers.hmap -F/Users/jamie/dev/iOS/MobileDashboard/build/Release-iphonesimulator -I/Users/jamie/dev/iOS/MobileDashboard/build/Release-iphonesimulator/include -I/Users/jamie/dev/iOS/MobileDashboard/build/MobileDashboard.build/Release-iphonesimulator/MobileDashboard.build/DerivedSources/i386 -I/Users/jamie/dev/iOS/MobileDashboard/build/MobileDashboard.build/Release-iphonesimulator/MobileDashboard.build/DerivedSources -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/qv/qvYwORx0F1qyBtnuKFiff++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MobileDashboard_Prefix-djhokxradwvmfmeqkxkdecqzzcrp/MobileDashboard_Prefix.pch -c /Users/jamie/dev/iOS/MobileDashboard/Classes/ASINetworkQueue.m -o /Users/jamie/dev/iOS/MobileDashboard/build/MobileDashboard.build/Release-iphonesimulator/MobileDashboard.build/Objects-normal/i386/ASINetworkQueue.o0#
+
+CCompileC build/MobileDashboard.build/Release-iphonesimulator/MobileDashboard.build/Objects-normal/i386/DetailViewController.o /Users/jamie/dev/iOS/MobileDashboard/Classes/DetailViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s320019068.774169
+e320019068.924616
+r1
+xCompileC
+xbuild/MobileDashboard.build/Release-iphonesimulator/MobileDashboard.build/Objects-normal/i386/DetailViewController.o
+x/Users/jamie/dev/iOS/MobileDashboard/Classes/DetailViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/jamie/dev/iOS/MobileDashboard/Classes/DetailViewController.m:177: warning: incomplete implementation of class 'DetailViewController'
+o/Users/jamie/dev/iOS/MobileDashboard/Classes/DetailViewController.m:177: warning: method definition for '-initWithStyle:andDvdData:' not found
+lSLF07#2@75"Compile /Users/jamie/dev/iOS/MobileDashboard/Classes/DetailViewController.m320019068#320019068#0(283"/Users/jamie/dev/iOS/MobileDashboard/Classes/DetailViewController.m:177: warning: incomplete implementation of class 'DetailViewController'/Users/jamie/dev/iOS/MobileDashboard/Classes/DetailViewController.m:177: warning: method definition for '-initWithStyle:andDvdData:' not found2(22@57"Incomplete implementation of class 'DetailViewController'320019068#0#140#0(6@67"/Users/jamie/dev/iOS/MobileDashboard/Classes/DetailViewController.m319587826#177#0#177#0#38"incomplete implementation of class '*'0(22@60"Method definition for '-initWithStyle:andDvdData:' not found320019068#140#143#0(6@67"/Users/jamie/dev/iOS/MobileDashboard/Classes/DetailViewController.m319587826#177#0#177#0#35"method definition for '*' not found0(0#0#67"/Users/jamie/dev/iOS/MobileDashboard/Classes/DetailViewController.m8667236032#2151"    cd /Users/jamie/dev/iOS/MobileDashboard    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/jamie/dev/iOS/MobileDashboard/build/MobileDashboard.build/Release-iphonesimulator/MobileDashboard.build/MobileDashboard-generated-files.hmap -I/Users/jamie/dev/iOS/MobileDashboard/build/MobileDashboard.build/Release-iphonesimulator/MobileDashboard.build/MobileDashboard-own-target-headers.hmap -I/Users/jamie/dev/iOS/MobileDashboard/build/MobileDashboard.build/Release-iphonesimulator/MobileDashboard.build/MobileDashboard-all-target-headers.hmap -iquote /Users/jamie/dev/iOS/MobileDashboard/build/MobileDashboard.build/Release-iphonesimulator/MobileDashboard.build/MobileDashboard-project-headers.hmap -F/Users/jamie/dev/iOS/MobileDashboard/build/Release-iphonesimulator -I/Users/jamie/dev/iOS/MobileDashboard/build/Release-iphonesimulator/include -I/Users/jamie/dev/iOS/MobileDashboard/build/MobileDashboard.build/Release-iphonesimulator/MobileDashboard.build/DerivedSources/i386 -I/Users/jamie/dev/iOS/MobileDashboard/build/MobileDashboard.build/Release-iphonesimulator/MobileDashboard.build/DerivedSources -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/qv/qvYwORx0F1qyBtnuKFiff++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MobileDashboard_Prefix-djhokxradwvmfmeqkxkdecqzzcrp/MobileDashboard_Prefix.pch -c /Users/jamie/dev/iOS/MobileDashboard/Classes/DetailViewController.m -o /Users/jamie/dev/iOS/MobileDashboard/build/MobileDashboard.build/Release-iphonesimulator/MobileDashboard.build/Objects-normal/i386/DetailViewController.o0#
+
+CCompileC build/MobileDashboard.build/Release-iphonesimulator/MobileDashboard.build/Objects-normal/i386/FirstViewController.o /Users/jamie/dev/iOS/MobileDashboard/Classes/FirstViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s320019066.571360
+e320019066.848779
+r1
+xCompileC
+xbuild/MobileDashboard.build/Release-iphonesimulator/MobileDashboard.build/Objects-normal/i386/FirstViewController.o
+x/Users/jamie/dev/iOS/MobileDashboard/Classes/FirstViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/jamie/dev/iOS/MobileDashboard/Classes/FirstViewController.m: In function '-[FirstViewController viewDidLoad]':
+o/Users/jamie/dev/iOS/MobileDashboard/Classes/FirstViewController.m:58: warning: unused variable 'url'
+o/Users/jamie/dev/iOS/MobileDashboard/Classes/FirstViewController.m: In function '-[FirstViewController loadDisplayLayers]':
+o/Users/jamie/dev/iOS/MobileDashboard/Classes/FirstViewController.m:93: warning: 'FirstViewController' may not respond to '-loadLayer:'
+o/Users/jamie/dev/iOS/MobileDashboard/Classes/FirstViewController.m:93: warning: (Messages without a matching method signature
+o/Users/jamie/dev/iOS/MobileDashboard/Classes/FirstViewController.m:93: warning: will be assumed to return 'id' and accept
+o/Users/jamie/dev/iOS/MobileDashboard/Classes/FirstViewController.m:93: warning: '...' as arguments.)
+o/Users/jamie/dev/iOS/MobileDashboard/Classes/FirstViewController.m: In function '-[FirstViewController locationUpdate:]':
+o/Users/jamie/dev/iOS/MobileDashboard/Classes/FirstViewController.m:203: warning: 'FirstViewController' may not respond to '-submitData:'
+o/Users/jamie/dev/iOS/MobileDashboard/Classes/FirstViewController.m: In function '-[FirstViewController locationError:]':
+o/Users/jamie/dev/iOS/MobileDashboard/Classes/FirstViewController.m:208: warning: format not a string literal and no format arguments
+o/Users/jamie/dev/iOS/MobileDashboard/Classes/FirstViewController.m: In function '-[FirstViewController submitData:]':
+o/Users/jamie/dev/iOS/MobileDashboard/Classes/FirstViewController.m:268: warning: format not a string literal and no format arguments
+o/Users/jamie/dev/iOS/MobileDashboard/Classes/FirstViewController.m:241: warning: unused variable 'exeName'
+lSLF07#2@74"Compile /Users/jamie/dev/iOS/MobileDashboard/Classes/FirstViewController.m320019066#320019066#0(1699"/Users/jamie/dev/iOS/MobileDashboard/Classes/FirstViewController.m: In function '-[FirstViewController viewDidLoad]':/Users/jamie/dev/iOS/MobileDashboard/Classes/FirstViewController.m:58: warning: unused variable 'url'/Users/jamie/dev/iOS/MobileDashboard/Classes/FirstViewController.m: In function '-[FirstViewController loadDisplayLayers]':/Users/jamie/dev/iOS/MobileDashboard/Classes/FirstViewController.m:93: warning: 'FirstViewController' may not respond to '-loadLayer:'/Users/jamie/dev/iOS/MobileDashboard/Classes/FirstViewController.m:93: warning: (Messages without a matching method signature/Users/jamie/dev/iOS/MobileDashboard/Classes/FirstViewController.m:93: warning: will be assumed to return 'id' and accept/Users/jamie/dev/iOS/MobileDashboard/Classes/FirstViewController.m:93: warning: '...' as arguments.)/Users/jamie/dev/iOS/MobileDashboard/Classes/FirstViewController.m: In function '-[FirstViewController locationUpdate:]':/Users/jamie/dev/iOS/MobileDashboard/Classes/FirstViewController.m:203: warning: 'FirstViewController' may not respond to '-submitData:'/Users/jamie/dev/iOS/MobileDashboard/Classes/FirstViewController.m: In function '-[FirstViewController locationError:]':/Users/jamie/dev/iOS/MobileDashboard/Classes/FirstViewController.m:208: warning: format not a string literal and no format arguments/Users/jamie/dev/iOS/MobileDashboard/Classes/FirstViewController.m: In function '-[FirstViewController submitData:]':/Users/jamie/dev/iOS/MobileDashboard/Classes/FirstViewController.m:268: warning: format not a string literal and no format arguments/Users/jamie/dev/iOS/MobileDashboard/Classes/FirstViewController.m:241: warning: unused variable 'exeName'7(22@21"Unused variable 'url'320019066#118#102#0(6@66"/Users/jamie/dev/iOS/MobileDashboard/Classes/FirstViewController.m320003628#58#0#58#0#19"unused variable '*'0(22@54"'FirstViewController' may not respond to '-loadLayer:'320019066#344#135#0(6@66"/Users/jamie/dev/iOS/MobileDashboard/Classes/FirstViewController.m320003628#93#0#93#0#26"'*' may not respond to '*'0(13@108"(Messages without a matching method signature will be assumed to return 'id' and accept '...' as arguments.)320019066#479#126#0(6@66"/Users/jamie/dev/iOS/MobileDashboard/Classes/FirstViewController.m320003628#93#0#93#0#0"0(22@55"'FirstViewController' may not respond to '-submitData:'320019066#950#137#0(6@66"/Users/jamie/dev/iOS/MobileDashboard/Classes/FirstViewController.m320003628#203#0#203#0#26"'*' may not respond to '*'0(22@51"Format not a string literal and no format arguments320019066#1208#133#0(6@66"/Users/jamie/dev/iOS/MobileDashboard/Classes/FirstViewController.m320003628#208#0#208#0#51"format not a string literal and no format arguments0(22@51"Format not a string literal and no format arguments320019066#1459#133#0(6@66"/Users/jamie/dev/iOS/MobileDashboard/Classes/FirstViewController.m320003628#268#0#268#0#51"format not a string literal and no format arguments0(22@25"Unused variable 'exeName'320019066#1592#107#0(6@66"/Users/jamie/dev/iOS/MobileDashboard/Classes/FirstViewController.m320003628#241#0#241#0#19"unused variable '*'0(0#0#66"/Users/jamie/dev/iOS/MobileDashboard/Classes/FirstViewController.m8681856864#2149"    cd /Users/jamie/dev/iOS/MobileDashboard    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/jamie/dev/iOS/MobileDashboard/build/MobileDashboard.build/Release-iphonesimulator/MobileDashboard.build/MobileDashboard-generated-files.hmap -I/Users/jamie/dev/iOS/MobileDashboard/build/MobileDashboard.build/Release-iphonesimulator/MobileDashboard.build/MobileDashboard-own-target-headers.hmap -I/Users/jamie/dev/iOS/MobileDashboard/build/MobileDashboard.build/Release-iphonesimulator/MobileDashboard.build/MobileDashboard-all-target-headers.hmap -iquote /Users/jamie/dev/iOS/MobileDashboard/build/MobileDashboard.build/Release-iphonesimulator/MobileDashboard.build/MobileDashboard-project-headers.hmap -F/Users/jamie/dev/iOS/MobileDashboard/build/Release-iphonesimulator -I/Users/jamie/dev/iOS/MobileDashboard/build/Release-iphonesimulator/include -I/Users/jamie/dev/iOS/MobileDashboard/build/MobileDashboard.build/Release-iphonesimulator/MobileDashboard.build/DerivedSources/i386 -I/Users/jamie/dev/iOS/MobileDashboard/build/MobileDashboard.build/Release-iphonesimulator/MobileDashboard.build/DerivedSources -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/qv/qvYwORx0F1qyBtnuKFiff++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MobileDashboard_Prefix-djhokxradwvmfmeqkxkdecqzzcrp/MobileDashboard_Prefix.pch -c /Users/jamie/dev/iOS/MobileDashboard/Classes/FirstViewController.m -o /Users/jamie/dev/iOS/MobileDashboard/build/MobileDashboard.build/Release-iphonesimulator/MobileDashboard.build/Objects-normal/i386/FirstViewController.o0#
+
+CCompileC build/MobileDashboard.build/Release-iphonesimulator/MobileDashboard.build/Objects-normal/i386/GPSViewController.o /Users/jamie/dev/iOS/MobileDashboard/Classes/GPSViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s320019066.692601
+e320019067.058493
+r1
+xCompileC
+xbuild/MobileDashboard.build/Release-iphonesimulator/MobileDashboard.build/Objects-normal/i386/GPSViewController.o
+x/Users/jamie/dev/iOS/MobileDashboard/Classes/GPSViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/jamie/dev/iOS/MobileDashboard/Classes/GPSViewController.m: In function '-[GPSViewController locationUpdate:]':
+o/Users/jamie/dev/iOS/MobileDashboard/Classes/GPSViewController.m:81: warning: format not a string literal and no format arguments
+o/Users/jamie/dev/iOS/MobileDashboard/Classes/GPSViewController.m:86: warning: 'GPSViewController' may not respond to '-submitData:'
+o/Users/jamie/dev/iOS/MobileDashboard/Classes/GPSViewController.m:86: warning: (Messages without a matching method signature
+o/Users/jamie/dev/iOS/MobileDashboard/Classes/GPSViewController.m:86: warning: will be assumed to return 'id' and accept
+o/Users/jamie/dev/iOS/MobileDashboard/Classes/GPSViewController.m:86: warning: '...' as arguments.)
+o/Users/jamie/dev/iOS/MobileDashboard/Classes/GPSViewController.m: In function '-[GPSViewController viewDidLoad]':
+o/Users/jamie/dev/iOS/MobileDashboard/Classes/GPSViewController.m:113: warning: format not a string literal and no format arguments
+o/Users/jamie/dev/iOS/MobileDashboard/Classes/GPSViewController.m:120: warning: format not a string literal and no format arguments
+o/Users/jamie/dev/iOS/MobileDashboard/Classes/GPSViewController.m:180: warning: format not a string literal and no format arguments
+o/Users/jamie/dev/iOS/MobileDashboard/Classes/GPSViewController.m: In function '-[GPSViewController tableView:cellForRowAtIndexPath:]':
+o/Users/jamie/dev/iOS/MobileDashboard/Classes/GPSViewController.m:244: warning: format not a string literal and no format arguments
+o/Users/jamie/dev/iOS/MobileDashboard/Classes/GPSViewController.m: In function '-[GPSViewController submitData:]':
+o/Users/jamie/dev/iOS/MobileDashboard/Classes/GPSViewController.m:290: warning: local declaration of 'values' hides instance variable
+o/Users/jamie/dev/iOS/MobileDashboard/Classes/GPSViewController.m:290: warning: format not a string literal and no format arguments
+o/Users/jamie/dev/iOS/MobileDashboard/Classes/GPSViewController.m:294: warning: local declaration of 'values' hides instance variable
+o/Users/jamie/dev/iOS/MobileDashboard/Classes/GPSViewController.m:309: warning: format not a string literal and no format arguments
+o/Users/jamie/dev/iOS/MobileDashboard/Classes/GPSViewController.m:280: warning: unused variable 'exeName'
+lSLF07#2@72"Compile /Users/jamie/dev/iOS/MobileDashboard/Classes/GPSViewController.m320019066#320019067#0(2243"/Users/jamie/dev/iOS/MobileDashboard/Classes/GPSViewController.m: In function '-[GPSViewController locationUpdate:]':/Users/jamie/dev/iOS/MobileDashboard/Classes/GPSViewController.m:81: warning: format not a string literal and no format arguments/Users/jamie/dev/iOS/MobileDashboard/Classes/GPSViewController.m:86: warning: 'GPSViewController' may not respond to '-submitData:'/Users/jamie/dev/iOS/MobileDashboard/Classes/GPSViewController.m:86: warning: (Messages without a matching method signature/Users/jamie/dev/iOS/MobileDashboard/Classes/GPSViewController.m:86: warning: will be assumed to return 'id' and accept/Users/jamie/dev/iOS/MobileDashboard/Classes/GPSViewController.m:86: warning: '...' as arguments.)/Users/jamie/dev/iOS/MobileDashboard/Classes/GPSViewController.m: In function '-[GPSViewController viewDidLoad]':/Users/jamie/dev/iOS/MobileDashboard/Classes/GPSViewController.m:113: warning: format not a string literal and no format arguments/Users/jamie/dev/iOS/MobileDashboard/Classes/GPSViewController.m:120: warning: format not a string literal and no format arguments/Users/jamie/dev/iOS/MobileDashboard/Classes/GPSViewController.m:180: warning: format not a string literal and no format arguments/Users/jamie/dev/iOS/MobileDashboard/Classes/GPSViewController.m: In function '-[GPSViewController tableView:cellForRowAtIndexPath:]':/Users/jamie/dev/iOS/MobileDashboard/Classes/GPSViewController.m:244: warning: format not a string literal and no format arguments/Users/jamie/dev/iOS/MobileDashboard/Classes/GPSViewController.m: In function '-[GPSViewController submitData:]':/Users/jamie/dev/iOS/MobileDashboard/Classes/GPSViewController.m:290: warning: local declaration of 'values' hides instance variable/Users/jamie/dev/iOS/MobileDashboard/Classes/GPSViewController.m:290: warning: format not a string literal and no format arguments/Users/jamie/dev/iOS/MobileDashboard/Classes/GPSViewController.m:294: warning: local declaration of 'values' hides instance variable/Users/jamie/dev/iOS/MobileDashboard/Classes/GPSViewController.m:309: warning: format not a string literal and no format arguments/Users/jamie/dev/iOS/MobileDashboard/Classes/GPSViewController.m:280: warning: unused variable 'exeName'12(22@51"Format not a string literal and no format arguments320019066#118#130#0(6@64"/Users/jamie/dev/iOS/MobileDashboard/Classes/GPSViewController.m319823473#81#0#81#0#51"format not a string literal and no format arguments0(22@53"'GPSViewController' may not respond to '-submitData:'320019066#248#132#0(6@64"/Users/jamie/dev/iOS/MobileDashboard/Classes/GPSViewController.m319823473#86#0#86#0#26"'*' may not respond to '*'0(13@108"(Messages without a matching method signature will be assumed to return 'id' and accept '...' as arguments.)320019066#380#124#0(6@64"/Users/jamie/dev/iOS/MobileDashboard/Classes/GPSViewController.m319823473#86#0#86#0#0"0(22@51"Format not a string literal and no format arguments320019066#837#131#0(6@64"/Users/jamie/dev/iOS/MobileDashboard/Classes/GPSViewController.m319823473#113#0#113#0#51"format not a string literal and no format arguments0(22@51"Format not a string literal and no format arguments320019066#968#131#0(6@64"/Users/jamie/dev/iOS/MobileDashboard/Classes/GPSViewController.m319823473#120#0#120#0#51"format not a string literal and no format arguments0(22@51"Format not a string literal and no format arguments320019066#1099#131#0(6@64"/Users/jamie/dev/iOS/MobileDashboard/Classes/GPSViewController.m319823473#180#0#180#0#51"format not a string literal and no format arguments0(22@51"Format not a string literal and no format arguments320019066#1365#131#0(6@64"/Users/jamie/dev/iOS/MobileDashboard/Classes/GPSViewController.m319823473#244#0#244#0#51"format not a string literal and no format arguments0(22@53"Local declaration of 'values' hides instance variable320019066#1610#133#0(6@64"/Users/jamie/dev/iOS/MobileDashboard/Classes/GPSViewController.m319823473#290#0#290#0#0"0(22@51"Format not a string literal and no format arguments320019066#1743#131#0(6@64"/Users/jamie/dev/iOS/MobileDashboard/Classes/GPSViewController.m319823473#290#0#290#0#51"format not a string literal and no format arguments0(22@53"Local declaration of 'values' hides instance variable320019066#1874#133#0(6@64"/Users/jamie/dev/iOS/MobileDashboard/Classes/GPSViewController.m319823473#294#0#294#0#0"0(22@51"Format not a string literal and no format arguments320019066#2007#131#0(6@64"/Users/jamie/dev/iOS/MobileDashboard/Classes/GPSViewController.m319823473#309#0#309#0#51"format not a string literal and no format arguments0(22@25"Unused variable 'exeName'320019066#2138#105#0(6@64"/Users/jamie/dev/iOS/MobileDashboard/Classes/GPSViewController.m319823473#280#0#280#0#19"unused variable '*'0(0#0#64"/Users/jamie/dev/iOS/MobileDashboard/Classes/GPSViewController.m8666329856#2145"    cd /Users/jamie/dev/iOS/MobileDashboard    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/jamie/dev/iOS/MobileDashboard/build/MobileDashboard.build/Release-iphonesimulator/MobileDashboard.build/MobileDashboard-generated-files.hmap -I/Users/jamie/dev/iOS/MobileDashboard/build/MobileDashboard.build/Release-iphonesimulator/MobileDashboard.build/MobileDashboard-own-target-headers.hmap -I/Users/jamie/dev/iOS/MobileDashboard/build/MobileDashboard.build/Release-iphonesimulator/MobileDashboard.build/MobileDashboard-all-target-headers.hmap -iquote /Users/jamie/dev/iOS/MobileDashboard/build/MobileDashboard.build/Release-iphonesimulator/MobileDashboard.build/MobileDashboard-project-headers.hmap -F/Users/jamie/dev/iOS/MobileDashboard/build/Release-iphonesimulator -I/Users/jamie/dev/iOS/MobileDashboard/build/Release-iphonesimulator/include -I/Users/jamie/dev/iOS/MobileDashboard/build/MobileDashboard.build/Release-iphonesimulator/MobileDashboard.build/DerivedSources/i386 -I/Users/jamie/dev/iOS/MobileDashboard/build/MobileDashboard.build/Release-iphonesimulator/MobileDashboard.build/DerivedSources -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/qv/qvYwORx0F1qyBtnuKFiff++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MobileDashboard_Prefix-djhokxradwvmfmeqkxkdecqzzcrp/MobileDashboard_Prefix.pch -c /Users/jamie/dev/iOS/MobileDashboard/Classes/GPSViewController.m -o /Users/jamie/dev/iOS/MobileDashboard/build/MobileDashboard.build/Release-iphonesimulator/MobileDashboard.build/Objects-normal/i386/GPSViewController.o0#
+
+CCompileC build/MobileDashboard.build/Release-iphonesimulator/MobileDashboard.build/Objects-normal/i386/KMLParser.o /Users/jamie/dev/iOS/MobileDashboard/Classes/KMLParser.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s320019068.924717
+e320019069.865942
+r1
+xCompileC
+xbuild/MobileDashboard.build/Release-iphonesimulator/MobileDashboard.build/Objects-normal/i386/KMLParser.o
+x/Users/jamie/dev/iOS/MobileDashboard/Classes/KMLParser.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@64"Compile /Users/jamie/dev/iOS/MobileDashboard/Classes/KMLParser.m320019068#320019069#0(0"0(0#0#56"/Users/jamie/dev/iOS/MobileDashboard/Classes/KMLParser.m8693642048#2129"    cd /Users/jamie/dev/iOS/MobileDashboard    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/jamie/dev/iOS/MobileDashboard/build/MobileDashboard.build/Release-iphonesimulator/MobileDashboard.build/MobileDashboard-generated-files.hmap -I/Users/jamie/dev/iOS/MobileDashboard/build/MobileDashboard.build/Release-iphonesimulator/MobileDashboard.build/MobileDashboard-own-target-headers.hmap -I/Users/jamie/dev/iOS/MobileDashboard/build/MobileDashboard.build/Release-iphonesimulator/MobileDashboard.build/MobileDashboard-all-target-headers.hmap -iquote /Users/jamie/dev/iOS/MobileDashboard/build/MobileDashboard.build/Release-iphonesimulator/MobileDashboard.build/MobileDashboard-project-headers.hmap -F/Users/jamie/dev/iOS/MobileDashboard/build/Release-iphonesimulator -I/Users/jamie/dev/iOS/MobileDashboard/build/Release-iphonesimulator/include -I/Users/jamie/dev/iOS/MobileDashboard/build/MobileDashboard.build/Release-iphonesimulator/MobileDashboard.build/DerivedSources/i386 -I/Users/jamie/dev/iOS/MobileDashboard/build/MobileDashboard.build/Release-iphonesimulator/MobileDashboard.build/DerivedSources -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/qv/qvYwORx0F1qyBtnuKFiff++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MobileDashboard_Prefix-djhokxradwvmfmeqkxkdecqzzcrp/MobileDashboard_Prefix.pch -c /Users/jamie/dev/iOS/MobileDashboard/Classes/KMLParser.m -o /Users/jamie/dev/iOS/MobileDashboard/build/MobileDashboard.build/Release-iphonesimulator/MobileDashboard.build/Objects-normal/i386/KMLParser.o0#
+
+CCompileC build/MobileDashboard.build/Release-iphonesimulator/MobileDashboard.build/Objects-normal/i386/LayersCell.o /Users/jamie/dev/iOS/MobileDashboard/Classes/LayersCell.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s320019070.199757
+e320019070.293780
+r1
+xCompileC
+xbuild/MobileDashboard.build/Release-iphonesimulator/MobileDashboard.build/Objects-normal/i386/LayersCell.o
+x/Users/jamie/dev/iOS/MobileDashboard/Classes/LayersCell.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/jamie/dev/iOS/MobileDashboard/Classes/LayersCell.m: In function '-[LayersCell initWithFrame:reuseIdentifier:]':
+o/Users/jamie/dev/iOS/MobileDashboard/Classes/LayersCell.m:20: warning: 'initWithFrame:reuseIdentifier:' is deprecated (declared at /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UITableViewCell.h:189)
+lSLF07#2@65"Compile /Users/jamie/dev/iOS/MobileDashboard/Classes/LayersCell.m320019070#320019070#0(407"/Users/jamie/dev/iOS/MobileDashboard/Classes/LayersCell.m: In function '-[LayersCell initWithFrame:reuseIdentifier:]':/Users/jamie/dev/iOS/MobileDashboard/Classes/LayersCell.m:20: warning: 'initWithFrame:reuseIdentifier:' is deprecated (declared at /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UITableViewCell.h:189)1(22@216"'initWithFrame:reuseIdentifier:' is deprecated (declared at /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UITableViewCell.h:189)320019070#119#288#0(6@57"/Users/jamie/dev/iOS/MobileDashboard/Classes/LayersCell.m319784164#20#0#20#0#33"'*' is deprecated (declared at *)0(0#0#57"/Users/jamie/dev/iOS/MobileDashboard/Classes/LayersCell.m8685481536#2131"    cd /Users/jamie/dev/iOS/MobileDashboard    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/jamie/dev/iOS/MobileDashboard/build/MobileDashboard.build/Release-iphonesimulator/MobileDashboard.build/MobileDashboard-generated-files.hmap -I/Users/jamie/dev/iOS/MobileDashboard/build/MobileDashboard.build/Release-iphonesimulator/MobileDashboard.build/MobileDashboard-own-target-headers.hmap -I/Users/jamie/dev/iOS/MobileDashboard/build/MobileDashboard.build/Release-iphonesimulator/MobileDashboard.build/MobileDashboard-all-target-headers.hmap -iquote /Users/jamie/dev/iOS/MobileDashboard/build/MobileDashboard.build/Release-iphonesimulator/MobileDashboard.build/MobileDashboard-project-headers.hmap -F/Users/jamie/dev/iOS/MobileDashboard/build/Release-iphonesimulator -I/Users/jamie/dev/iOS/MobileDashboard/build/Release-iphonesimulator/include -I/Users/jamie/dev/iOS/MobileDashboard/build/MobileDashboard.build/Release-iphonesimulator/MobileDashboard.build/DerivedSources/i386 -I/Users/jamie/dev/iOS/MobileDashboard/build/MobileDashboard.build/Release-iphonesimulator/MobileDashboard.build/DerivedSources -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/qv/qvYwORx0F1qyBtnuKFiff++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MobileDashboard_Prefix-djhokxradwvmfmeqkxkdecqzzcrp/MobileDashboard_Prefix.pch -c /Users/jamie/dev/iOS/MobileDashboard/Classes/LayersCell.m -o /Users/jamie/dev/iOS/MobileDashboard/build/MobileDashboard.build/Release-iphonesimulator/MobileDashboard.build/Objects-normal/i386/LayersCell.o0#
+
+CCompileC build/MobileDashboard.build/Release-iphonesimulator/MobileDashboard.build/Objects-normal/i386/LayersViewController.o /Users/jamie/dev/iOS/MobileDashboard/Classes/LayersViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s320019069.866101
+e320019070.087238
+r1
+xCompileC
+xbuild/MobileDashboard.build/Release-iphonesimulator/MobileDashboard.build/Objects-normal/i386/LayersViewController.o
+x/Users/jamie/dev/iOS/MobileDashboard/Classes/LayersViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/jamie/dev/iOS/MobileDashboard/Classes/LayersViewController.m:247: warning: property 'layerView' requires method '-layerView' to be defined - use @synthesize, @dynamic or provide a method implementation
+o/Users/jamie/dev/iOS/MobileDashboard/Classes/LayersViewController.m:247: warning: property 'layerView' requires the method 'setLayerView:' to be defined - use @synthesize, @dynamic or provide a method implementation
+o/Users/jamie/dev/iOS/MobileDashboard/Classes/LayersViewController.m:247: warning: property 'urls' requires method '-urls' to be defined - use @synthesize, @dynamic or provide a method implementation
+o/Users/jamie/dev/iOS/MobileDashboard/Classes/LayersViewController.m:247: warning: property 'urls' requires the method 'setUrls:' to be defined - use @synthesize, @dynamic or provide a method implementation
+lSLF07#2@75"Compile /Users/jamie/dev/iOS/MobileDashboard/Classes/LayersViewController.m320019069#320019070#0(830"/Users/jamie/dev/iOS/MobileDashboard/Classes/LayersViewController.m:247: warning: property 'layerView' requires method '-layerView' to be defined - use @synthesize, @dynamic or provide a method implementation/Users/jamie/dev/iOS/MobileDashboard/Classes/LayersViewController.m:247: warning: property 'layerView' requires the method 'setLayerView:' to be defined - use @synthesize, @dynamic or provide a method implementation/Users/jamie/dev/iOS/MobileDashboard/Classes/LayersViewController.m:247: warning: property 'urls' requires method '-urls' to be defined - use @synthesize, @dynamic or provide a method implementation/Users/jamie/dev/iOS/MobileDashboard/Classes/LayersViewController.m:247: warning: property 'urls' requires the method 'setUrls:' to be defined - use @synthesize, @dynamic or provide a method implementation4(22@126"Property 'layerView' requires method '-layerView' to be defined - use @synthesize, @dynamic or provide a method implementation320019069#0#209#0(6@67"/Users/jamie/dev/iOS/MobileDashboard/Classes/LayersViewController.m320003570#247#0#247#0#0"0(22@133"Property 'layerView' requires the method 'setLayerView:' to be defined - use @synthesize, @dynamic or provide a method implementation320019069#209#216#0(6@67"/Users/jamie/dev/iOS/MobileDashboard/Classes/LayersViewController.m320003570#247#0#247#0#0"0(22@116"Property 'urls' requires method '-urls' to be defined - use @synthesize, @dynamic or provide a method implementation320019069#425#199#0(6@67"/Users/jamie/dev/iOS/MobileDashboard/Classes/LayersViewController.m320003570#247#0#247#0#0"0(22@123"Property 'urls' requires the method 'setUrls:' to be defined - use @synthesize, @dynamic or provide a method implementation320019069#624#206#0(6@67"/Users/jamie/dev/iOS/MobileDashboard/Classes/LayersViewController.m320003570#247#0#247#0#0"0(0#0#67"/Users/jamie/dev/iOS/MobileDashboard/Classes/LayersViewController.m8693597440#2151"    cd /Users/jamie/dev/iOS/MobileDashboard    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/jamie/dev/iOS/MobileDashboard/build/MobileDashboard.build/Release-iphonesimulator/MobileDashboard.build/MobileDashboard-generated-files.hmap -I/Users/jamie/dev/iOS/MobileDashboard/build/MobileDashboard.build/Release-iphonesimulator/MobileDashboard.build/MobileDashboard-own-target-headers.hmap -I/Users/jamie/dev/iOS/MobileDashboard/build/MobileDashboard.build/Release-iphonesimulator/MobileDashboard.build/MobileDashboard-all-target-headers.hmap -iquote /Users/jamie/dev/iOS/MobileDashboard/build/MobileDashboard.build/Release-iphonesimulator/MobileDashboard.build/MobileDashboard-project-headers.hmap -F/Users/jamie/dev/iOS/MobileDashboard/build/Release-iphonesimulator -I/Users/jamie/dev/iOS/MobileDashboard/build/Release-iphonesimulator/include -I/Users/jamie/dev/iOS/MobileDashboard/build/MobileDashboard.build/Release-iphonesimulator/MobileDashboard.build/DerivedSources/i386 -I/Users/jamie/dev/iOS/MobileDashboard/build/MobileDashboard.build/Release-iphonesimulator/MobileDashboard.build/DerivedSources -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/qv/qvYwORx0F1qyBtnuKFiff++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MobileDashboard_Prefix-djhokxradwvmfmeqkxkdecqzzcrp/MobileDashboard_Prefix.pch -c /Users/jamie/dev/iOS/MobileDashboard/Classes/LayersViewController.m -o /Users/jamie/dev/iOS/MobileDashboard/build/MobileDashboard.build/Release-iphonesimulator/MobileDashboard.build/Objects-normal/i386/LayersViewController.o0#
+
+CCompileC build/MobileDashboard.build/Release-iphonesimulator/MobileDashboard.build/Objects-normal/i386/LocationController.o /Users/jamie/dev/iOS/MobileDashboard/Classes/LocationController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s320019066.848873
+e320019066.951294
+r1
+xCompileC
+xbuild/MobileDashboard.build/Release-iphonesimulator/MobileDashboard.build/Objects-normal/i386/LocationController.o
+x/Users/jamie/dev/iOS/MobileDashboard/Classes/LocationController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@73"Compile /Users/jamie/dev/iOS/MobileDashboard/Classes/LocationController.m320019066#320019066#0(0"0(0#0#65"/Users/jamie/dev/iOS/MobileDashboard/Classes/LocationController.m8693630912#2147"    cd /Users/jamie/dev/iOS/MobileDashboard    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/jamie/dev/iOS/MobileDashboard/build/MobileDashboard.build/Release-iphonesimulator/MobileDashboard.build/MobileDashboard-generated-files.hmap -I/Users/jamie/dev/iOS/MobileDashboard/build/MobileDashboard.build/Release-iphonesimulator/MobileDashboard.build/MobileDashboard-own-target-headers.hmap -I/Users/jamie/dev/iOS/MobileDashboard/build/MobileDashboard.build/Release-iphonesimulator/MobileDashboard.build/MobileDashboard-all-target-headers.hmap -iquote /Users/jamie/dev/iOS/MobileDashboard/build/MobileDashboard.build/Release-iphonesimulator/MobileDashboard.build/MobileDashboard-project-headers.hmap -F/Users/jamie/dev/iOS/MobileDashboard/build/Release-iphonesimulator -I/Users/jamie/dev/iOS/MobileDashboard/build/Release-iphonesimulator/include -I/Users/jamie/dev/iOS/MobileDashboard/build/MobileDashboard.build/Release-iphonesimulator/MobileDashboard.build/DerivedSources/i386 -I/Users/jamie/dev/iOS/MobileDashboard/build/MobileDashboard.build/Release-iphonesimulator/MobileDashboard.build/DerivedSources -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/qv/qvYwORx0F1qyBtnuKFiff++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MobileDashboard_Prefix-djhokxradwvmfmeqkxkdecqzzcrp/MobileDashboard_Prefix.pch -c /Users/jamie/dev/iOS/MobileDashboard/Classes/LocationController.m -o /Users/jamie/dev/iOS/MobileDashboard/build/MobileDashboard.build/Release-iphonesimulator/MobileDashboard.build/Objects-normal/i386/LocationController.o0#
+
+CCompileC build/MobileDashboard.build/Release-iphonesimulator/MobileDashboard.build/Objects-normal/i386/LocationPost.o /Users/jamie/dev/iOS/MobileDashboard/Classes/LocationPost.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s320019068.684098
+e320019068.774074
+r1
+xCompileC
+xbuild/MobileDashboard.build/Release-iphonesimulator/MobileDashboard.build/Objects-normal/i386/LocationPost.o
+x/Users/jamie/dev/iOS/MobileDashboard/Classes/LocationPost.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/jamie/dev/iOS/MobileDashboard/Classes/LocationPost.m: In function '-[LocationPost locationUpdate::]':
+o/Users/jamie/dev/iOS/MobileDashboard/Classes/LocationPost.m:25: warning: format not a string literal and no format arguments
+o/Users/jamie/dev/iOS/MobileDashboard/Classes/LocationPost.m:44: warning: format not a string literal and no format arguments
+lSLF07#2@67"Compile /Users/jamie/dev/iOS/MobileDashboard/Classes/LocationPost.m320019068#320019068#0(359"/Users/jamie/dev/iOS/MobileDashboard/Classes/LocationPost.m: In function '-[LocationPost locationUpdate::]':/Users/jamie/dev/iOS/MobileDashboard/Classes/LocationPost.m:25: warning: format not a string literal and no format arguments/Users/jamie/dev/iOS/MobileDashboard/Classes/LocationPost.m:44: warning: format not a string literal and no format arguments2(22@51"Format not a string literal and no format arguments320019068#109#125#0(6@59"/Users/jamie/dev/iOS/MobileDashboard/Classes/LocationPost.m319185232#25#0#25#0#51"format not a string literal and no format arguments0(22@51"Format not a string literal and no format arguments320019068#234#125#0(6@59"/Users/jamie/dev/iOS/MobileDashboard/Classes/LocationPost.m319185232#44#0#44#0#51"format not a string literal and no format arguments0(0#0#59"/Users/jamie/dev/iOS/MobileDashboard/Classes/LocationPost.m8682169472#2135"    cd /Users/jamie/dev/iOS/MobileDashboard    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/jamie/dev/iOS/MobileDashboard/build/MobileDashboard.build/Release-iphonesimulator/MobileDashboard.build/MobileDashboard-generated-files.hmap -I/Users/jamie/dev/iOS/MobileDashboard/build/MobileDashboard.build/Release-iphonesimulator/MobileDashboard.build/MobileDashboard-own-target-headers.hmap -I/Users/jamie/dev/iOS/MobileDashboard/build/MobileDashboard.build/Release-iphonesimulator/MobileDashboard.build/MobileDashboard-all-target-headers.hmap -iquote /Users/jamie/dev/iOS/MobileDashboard/build/MobileDashboard.build/Release-iphonesimulator/MobileDashboard.build/MobileDashboard-project-headers.hmap -F/Users/jamie/dev/iOS/MobileDashboard/build/Release-iphonesimulator -I/Users/jamie/dev/iOS/MobileDashboard/build/Release-iphonesimulator/include -I/Users/jamie/dev/iOS/MobileDashboard/build/MobileDashboard.build/Release-iphonesimulator/MobileDashboard.build/DerivedSources/i386 -I/Users/jamie/dev/iOS/MobileDashboard/build/MobileDashboard.build/Release-iphonesimulator/MobileDashboard.build/DerivedSources -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/qv/qvYwORx0F1qyBtnuKFiff++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MobileDashboard_Prefix-djhokxradwvmfmeqkxkdecqzzcrp/MobileDashboard_Prefix.pch -c /Users/jamie/dev/iOS/MobileDashboard/Classes/LocationPost.m -o /Users/jamie/dev/iOS/MobileDashboard/build/MobileDashboard.build/Release-iphonesimulator/MobileDashboard.build/Objects-normal/i386/LocationPost.o0#
+
+CCompileC build/MobileDashboard.build/Release-iphonesimulator/MobileDashboard.build/Objects-normal/i386/MobileDashboardAppDelegate.o /Users/jamie/dev/iOS/MobileDashboard/Classes/MobileDashboardAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s320019066.392393
+e320019066.692425
+r1
+xCompileC
+xbuild/MobileDashboard.build/Release-iphonesimulator/MobileDashboard.build/Objects-normal/i386/MobileDashboardAppDelegate.o
+x/Users/jamie/dev/iOS/MobileDashboard/Classes/MobileDashboardAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/jamie/dev/iOS/MobileDashboard/Classes/MobileDashboardAppDelegate.m: In function '-[MobileDashboardAppDelegate application:didFinishLaunchingWithOptions:]':
+o/Users/jamie/dev/iOS/MobileDashboard/Classes/MobileDashboardAppDelegate.m:27: warning: 'MobileDashboardAppDelegate' may not respond to '-printData:'
+o/Users/jamie/dev/iOS/MobileDashboard/Classes/MobileDashboardAppDelegate.m:27: warning: (Messages without a matching method signature
+o/Users/jamie/dev/iOS/MobileDashboard/Classes/MobileDashboardAppDelegate.m:27: warning: will be assumed to return 'id' and accept
+o/Users/jamie/dev/iOS/MobileDashboard/Classes/MobileDashboardAppDelegate.m:27: warning: '...' as arguments.)
+lSLF07#2@81"Compile /Users/jamie/dev/iOS/MobileDashboard/Classes/MobileDashboardAppDelegate.m320019066#320019066#0(682"/Users/jamie/dev/iOS/MobileDashboard/Classes/MobileDashboardAppDelegate.m: In function '-[MobileDashboardAppDelegate application:didFinishLaunchingWithOptions:]':/Users/jamie/dev/iOS/MobileDashboard/Classes/MobileDashboardAppDelegate.m:27: warning: 'MobileDashboardAppDelegate' may not respond to '-printData:'/Users/jamie/dev/iOS/MobileDashboard/Classes/MobileDashboardAppDelegate.m:27: warning: (Messages without a matching method signature/Users/jamie/dev/iOS/MobileDashboard/Classes/MobileDashboardAppDelegate.m:27: warning: will be assumed to return 'id' and accept/Users/jamie/dev/iOS/MobileDashboard/Classes/MobileDashboardAppDelegate.m:27: warning: '...' as arguments.)2(22@61"'MobileDashboardAppDelegate' may not respond to '-printData:'320019066#163#149#0(6@73"/Users/jamie/dev/iOS/MobileDashboard/Classes/MobileDashboardAppDelegate.m319939267#27#0#27#0#26"'*' may not respond to '*'0(13@108"(Messages without a matching method signature will be assumed to return 'id' and accept '...' as arguments.)320019066#312#133#0(6@73"/Users/jamie/dev/iOS/MobileDashboard/Classes/MobileDashboardAppDelegate.m319939267#27#0#27#0#0"0(0#0#73"/Users/jamie/dev/iOS/MobileDashboard/Classes/MobileDashboardAppDelegate.m8693108352#2163"    cd /Users/jamie/dev/iOS/MobileDashboard    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/jamie/dev/iOS/MobileDashboard/build/MobileDashboard.build/Release-iphonesimulator/MobileDashboard.build/MobileDashboard-generated-files.hmap -I/Users/jamie/dev/iOS/MobileDashboard/build/MobileDashboard.build/Release-iphonesimulator/MobileDashboard.build/MobileDashboard-own-target-headers.hmap -I/Users/jamie/dev/iOS/MobileDashboard/build/MobileDashboard.build/Release-iphonesimulator/MobileDashboard.build/MobileDashboard-all-target-headers.hmap -iquote /Users/jamie/dev/iOS/MobileDashboard/build/MobileDashboard.build/Release-iphonesimulator/MobileDashboard.build/MobileDashboard-project-headers.hmap -F/Users/jamie/dev/iOS/MobileDashboard/build/Release-iphonesimulator -I/Users/jamie/dev/iOS/MobileDashboard/build/Release-iphonesimulator/include -I/Users/jamie/dev/iOS/MobileDashboard/build/MobileDashboard.build/Release-iphonesimulator/MobileDashboard.build/DerivedSources/i386 -I/Users/jamie/dev/iOS/MobileDashboard/build/MobileDashboard.build/Release-iphonesimulator/MobileDashboard.build/DerivedSources -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/qv/qvYwORx0F1qyBtnuKFiff++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MobileDashboard_Prefix-djhokxradwvmfmeqkxkdecqzzcrp/MobileDashboard_Prefix.pch -c /Users/jamie/dev/iOS/MobileDashboard/Classes/MobileDashboardAppDelegate.m -o /Users/jamie/dev/iOS/MobileDashboard/build/MobileDashboard.build/Release-iphonesimulator/MobileDashboard.build/Objects-normal/i386/MobileDashboardAppDelegate.o0#
+
+CCompileC build/MobileDashboard.build/Release-iphonesimulator/MobileDashboard.build/Objects-normal/i386/Reachability.o /Users/jamie/dev/iOS/MobileDashboard/Classes/Reachability.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s320019066.951374
+e320019067.153731
+r1
+xCompileC
+xbuild/MobileDashboard.build/Release-iphonesimulator/MobileDashboard.build/Objects-normal/i386/Reachability.o
+x/Users/jamie/dev/iOS/MobileDashboard/Classes/Reachability.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@67"Compile /Users/jamie/dev/iOS/MobileDashboard/Classes/Reachability.m320019066#320019067#0(0"0(0#0#59"/Users/jamie/dev/iOS/MobileDashboard/Classes/Reachability.m8686188320#2135"    cd /Users/jamie/dev/iOS/MobileDashboard    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/jamie/dev/iOS/MobileDashboard/build/MobileDashboard.build/Release-iphonesimulator/MobileDashboard.build/MobileDashboard-generated-files.hmap -I/Users/jamie/dev/iOS/MobileDashboard/build/MobileDashboard.build/Release-iphonesimulator/MobileDashboard.build/MobileDashboard-own-target-headers.hmap -I/Users/jamie/dev/iOS/MobileDashboard/build/MobileDashboard.build/Release-iphonesimulator/MobileDashboard.build/MobileDashboard-all-target-headers.hmap -iquote /Users/jamie/dev/iOS/MobileDashboard/build/MobileDashboard.build/Release-iphonesimulator/MobileDashboard.build/MobileDashboard-project-headers.hmap -F/Users/jamie/dev/iOS/MobileDashboard/build/Release-iphonesimulator -I/Users/jamie/dev/iOS/MobileDashboard/build/Release-iphonesimulator/include -I/Users/jamie/dev/iOS/MobileDashboard/build/MobileDashboard.build/Release-iphonesimulator/MobileDashboard.build/DerivedSources/i386 -I/Users/jamie/dev/iOS/MobileDashboard/build/MobileDashboard.build/Release-iphonesimulator/MobileDashboard.build/DerivedSources -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/qv/qvYwORx0F1qyBtnuKFiff++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MobileDashboard_Prefix-djhokxradwvmfmeqkxkdecqzzcrp/MobileDashboard_Prefix.pch -c /Users/jamie/dev/iOS/MobileDashboard/Classes/Reachability.m -o /Users/jamie/dev/iOS/MobileDashboard/build/MobileDashboard.build/Release-iphonesimulator/MobileDashboard.build/Objects-normal/i386/Reachability.o0#
+
+CCompileC build/MobileDashboard.build/Release-iphonesimulator/MobileDashboard.build/Objects-normal/i386/ToggleViewTableCell.o /Users/jamie/dev/iOS/MobileDashboard/Classes/ToggleViewTableCell.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s320019070.087333
+e320019070.199668
+r1
+xCompileC
+xbuild/MobileDashboard.build/Release-iphonesimulator/MobileDashboard.build/Objects-normal/i386/ToggleViewTableCell.o
+x/Users/jamie/dev/iOS/MobileDashboard/Classes/ToggleViewTableCell.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/jamie/dev/iOS/MobileDashboard/Classes/ToggleViewTableCell.m: In function '-[ToggleViewTableCell didReceiveMemoryWarning]':
+o/Users/jamie/dev/iOS/MobileDashboard/Classes/ToggleViewTableCell.m:58: warning: 'UITableViewCell' may not respond to '-didReceiveMemoryWarning'
+o/Users/jamie/dev/iOS/MobileDashboard/Classes/ToggleViewTableCell.m:58: warning: (Messages without a matching method signature
+o/Users/jamie/dev/iOS/MobileDashboard/Classes/ToggleViewTableCell.m:58: warning: will be assumed to return 'id' and accept
+o/Users/jamie/dev/iOS/MobileDashboard/Classes/ToggleViewTableCell.m:58: warning: '...' as arguments.)
+o/Users/jamie/dev/iOS/MobileDashboard/Classes/ToggleViewTableCell.m: In function '-[ToggleViewTableCell viewDidUnload]':
+o/Users/jamie/dev/iOS/MobileDashboard/Classes/ToggleViewTableCell.m:64: warning: 'UITableViewCell' may not respond to '-viewDidUnload'
+o/Users/jamie/dev/iOS/MobileDashboard/Classes/ToggleViewTableCell.m: At top level:
+o/Users/jamie/dev/iOS/MobileDashboard/Classes/ToggleViewTableCell.m:75: warning: property 'toggleNameLabel' requires method '-toggleNameLabel' to be defined - use @synthesize, @dynamic or provide a method implementation
+o/Users/jamie/dev/iOS/MobileDashboard/Classes/ToggleViewTableCell.m:75: warning: property 'toggleNameLabel' requires the method 'setToggleNameLabel:' to be defined - use @synthesize, @dynamic or provide a method implementation
+o/Users/jamie/dev/iOS/MobileDashboard/Classes/ToggleViewTableCell.m:75: warning: property 'detailedTextLabel' requires method '-detailedTextLabel' to be defined - use @synthesize, @dynamic or provide a method implementation
+o/Users/jamie/dev/iOS/MobileDashboard/Classes/ToggleViewTableCell.m:75: warning: property 'detailedTextLabel' requires the method 'setDetailedTextLabel:' to be defined - use @synthesize, @dynamic or provide a method implementation
+o/Users/jamie/dev/iOS/MobileDashboard/Classes/ToggleViewTableCell.m:75: warning: property 'toggle' requires method '-toggle' to be defined - use @synthesize, @dynamic or provide a method implementation
+o/Users/jamie/dev/iOS/MobileDashboard/Classes/ToggleViewTableCell.m:75: warning: property 'toggle' requires the method 'setToggle:' to be defined - use @synthesize, @dynamic or provide a method implementation
+o/Users/jamie/dev/iOS/MobileDashboard/Classes/ToggleViewTableCell.m:75: warning: property 'owner' requires method '-owner' to be defined - use @synthesize, @dynamic or provide a method implementation
+o/Users/jamie/dev/iOS/MobileDashboard/Classes/ToggleViewTableCell.m:75: warning: property 'owner' requires the method 'setOwner:' to be defined - use @synthesize, @dynamic or provide a method implementation
+o/Users/jamie/dev/iOS/MobileDashboard/Classes/ToggleViewTableCell.m:75: warning: property 'view' requires method '-view' to be defined - use @synthesize, @dynamic or provide a method implementation
+o/Users/jamie/dev/iOS/MobileDashboard/Classes/ToggleViewTableCell.m:75: warning: property 'view' requires the method 'setView:' to be defined - use @synthesize, @dynamic or provide a method implementation
+o/Users/jamie/dev/iOS/MobileDashboard/Classes/ToggleViewTableCell.m:75: warning: incomplete implementation of class 'ToggleViewTableCell'
+o/Users/jamie/dev/iOS/MobileDashboard/Classes/ToggleViewTableCell.m:75: warning: method definition for '-value' not found
+lSLF07#2@74"Compile /Users/jamie/dev/iOS/MobileDashboard/Classes/ToggleViewTableCell.m320019070#320019070#0(3330"/Users/jamie/dev/iOS/MobileDashboard/Classes/ToggleViewTableCell.m: In function '-[ToggleViewTableCell didReceiveMemoryWarning]':/Users/jamie/dev/iOS/MobileDashboard/Classes/ToggleViewTableCell.m:58: warning: 'UITableViewCell' may not respond to '-didReceiveMemoryWarning'/Users/jamie/dev/iOS/MobileDashboard/Classes/ToggleViewTableCell.m:58: warning: (Messages without a matching method signature/Users/jamie/dev/iOS/MobileDashboard/Classes/ToggleViewTableCell.m:58: warning: will be assumed to return 'id' and accept/Users/jamie/dev/iOS/MobileDashboard/Classes/ToggleViewTableCell.m:58: warning: '...' as arguments.)/Users/jamie/dev/iOS/MobileDashboard/Classes/ToggleViewTableCell.m: In function '-[ToggleViewTableCell viewDidUnload]':/Users/jamie/dev/iOS/MobileDashboard/Classes/ToggleViewTableCell.m:64: warning: 'UITableViewCell' may not respond to '-viewDidUnload'/Users/jamie/dev/iOS/MobileDashboard/Classes/ToggleViewTableCell.m: At top level:/Users/jamie/dev/iOS/MobileDashboard/Classes/ToggleViewTableCell.m:75: warning: property 'toggleNameLabel' requires method '-toggleNameLabel' to be defined - use @synthesize, @dynamic or provide a method implementation/Users/jamie/dev/iOS/MobileDashboard/Classes/ToggleViewTableCell.m:75: warning: property 'toggleNameLabel' requires the method 'setToggleNameLabel:' to be defined - use @synthesize, @dynamic or provide a method implementation/Users/jamie/dev/iOS/MobileDashboard/Classes/ToggleViewTableCell.m:75: warning: property 'detailedTextLabel' requires method '-detailedTextLabel' to be defined - use @synthesize, @dynamic or provide a method implementation/Users/jamie/dev/iOS/MobileDashboard/Classes/ToggleViewTableCell.m:75: warning: property 'detailedTextLabel' requires the method 'setDetailedTextLabel:' to be defined - use @synthesize, @dynamic or provide a method implementation/Users/jamie/dev/iOS/MobileDashboard/Classes/ToggleViewTableCell.m:75: warning: property 'toggle' requires method '-toggle' to be defined - use @synthesize, @dynamic or provide a method implementation/Users/jamie/dev/iOS/MobileDashboard/Classes/ToggleViewTableCell.m:75: warning: property 'toggle' requires the method 'setToggle:' to be defined - use @synthesize, @dynamic or provide a method implementation/Users/jamie/dev/iOS/MobileDashboard/Classes/ToggleViewTableCell.m:75: warning: property 'owner' requires method '-owner' to be defined - use @synthesize, @dynamic or provide a method implementation/Users/jamie/dev/iOS/MobileDashboard/Classes/ToggleViewTableCell.m:75: warning: property 'owner' requires the method 'setOwner:' to be defined - use @synthesize, @dynamic or provide a method implementation/Users/jamie/dev/iOS/MobileDashboard/Classes/ToggleViewTableCell.m:75: warning: property 'view' requires method '-view' to be defined - use @synthesize, @dynamic or provide a method implementation/Users/jamie/dev/iOS/MobileDashboard/Classes/ToggleViewTableCell.m:75: warning: property 'view' requires the method 'setView:' to be defined - use @synthesize, @dynamic or provide a method implementation/Users/jamie/dev/iOS/MobileDashboard/Classes/ToggleViewTableCell.m:75: warning: incomplete implementation of class 'ToggleViewTableCell'/Users/jamie/dev/iOS/MobileDashboard/Classes/ToggleViewTableCell.m:75: warning: method definition for '-value' not found16(22@63"'UITableViewCell' may not respond to '-didReceiveMemoryWarning'320019070#130#144#0(6@66"/Users/jamie/dev/iOS/MobileDashboard/Classes/ToggleViewTableCell.m319761074#58#0#58#0#26"'*' may not respond to '*'0(13@108"(Messages without a matching method signature will be assumed to return 'id' and accept '...' as arguments.)320019070#274#126#0(6@66"/Users/jamie/dev/iOS/MobileDashboard/Classes/ToggleViewTableCell.m319761074#58#0#58#0#0"0(22@53"'UITableViewCell' may not respond to '-viewDidUnload'320019070#743#134#0(6@66"/Users/jamie/dev/iOS/MobileDashboard/Classes/ToggleViewTableCell.m319761074#64#0#64#0#26"'*' may not respond to '*'0(23@13"At top level:320019070#877#82#0(6@66"/Users/jamie/dev/iOS/MobileDashboard/Classes/ToggleViewTableCell.m319761074#0#0#0#0#0"0(22@138"Property 'toggleNameLabel' requires method '-toggleNameLabel' to be defined - use @synthesize, @dynamic or provide a method implementation320019070#959#219#0(6@66"/Users/jamie/dev/iOS/MobileDashboard/Classes/ToggleViewTableCell.m319761074#75#0#75#0#0"0(22@145"Property 'toggleNameLabel' requires the method 'setToggleNameLabel:' to be defined - use @synthesize, @dynamic or provide a method implementation320019070#1178#226#0(6@66"/Users/jamie/dev/iOS/MobileDashboard/Classes/ToggleViewTableCell.m319761074#75#0#75#0#0"0(22@142"Property 'detailedTextLabel' requires method '-detailedTextLabel' to be defined - use @synthesize, @dynamic or provide a method implementation320019070#1404#223#0(6@66"/Users/jamie/dev/iOS/MobileDashboard/Classes/ToggleViewTableCell.m319761074#75#0#75#0#0"0(22@149"Property 'detailedTextLabel' requires the method 'setDetailedTextLabel:' to be defined - use @synthesize, @dynamic or provide a method implementation320019070#1627#230#0(6@66"/Users/jamie/dev/iOS/MobileDashboard/Classes/ToggleViewTableCell.m319761074#75#0#75#0#0"0(22@120"Property 'toggle' requires method '-toggle' to be defined - use @synthesize, @dynamic or provide a method implementation320019070#1857#201#0(6@66"/Users/jamie/dev/iOS/MobileDashboard/Classes/ToggleViewTableCell.m319761074#75#0#75#0#0"0(22@127"Property 'toggle' requires the method 'setToggle:' to be defined - use @synthesize, @dynamic or provide a method implementation320019070#2058#208#0(6@66"/Users/jamie/dev/iOS/MobileDashboard/Classes/ToggleViewTableCell.m319761074#75#0#75#0#0"0(22@118"Property 'owner' requires method '-owner' to be defined - use @synthesize, @dynamic or provide a method implementation320019070#2266#199#0(6@66"/Users/jamie/dev/iOS/MobileDashboard/Classes/ToggleViewTableCell.m319761074#75#0#75#0#0"0(22@125"Property 'owner' requires the method 'setOwner:' to be defined - use @synthesize, @dynamic or provide a method implementation320019070#2465#206#0(6@66"/Users/jamie/dev/iOS/MobileDashboard/Classes/ToggleViewTableCell.m319761074#75#0#75#0#0"0(22@116"Property 'view' requires method '-view' to be defined - use @synthesize, @dynamic or provide a method implementation320019070#2671#197#0(6@66"/Users/jamie/dev/iOS/MobileDashboard/Classes/ToggleViewTableCell.m319761074#75#0#75#0#0"0(22@123"Property 'view' requires the method 'setView:' to be defined - use @synthesize, @dynamic or provide a method implementation320019070#2868#204#0(6@66"/Users/jamie/dev/iOS/MobileDashboard/Classes/ToggleViewTableCell.m319761074#75#0#75#0#0"0(22@56"Incomplete implementation of class 'ToggleViewTableCell'320019070#3072#137#0(6@66"/Users/jamie/dev/iOS/MobileDashboard/Classes/ToggleViewTableCell.m319761074#75#0#75#0#38"incomplete implementation of class '*'0(22@40"Method definition for '-value' not found320019070#3209#121#0(6@66"/Users/jamie/dev/iOS/MobileDashboard/Classes/ToggleViewTableCell.m319761074#75#0#75#0#35"method definition for '*' not found0(0#0#66"/Users/jamie/dev/iOS/MobileDashboard/Classes/ToggleViewTableCell.m8693629248#2149"    cd /Users/jamie/dev/iOS/MobileDashboard    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/jamie/dev/iOS/MobileDashboard/build/MobileDashboard.build/Release-iphonesimulator/MobileDashboard.build/MobileDashboard-generated-files.hmap -I/Users/jamie/dev/iOS/MobileDashboard/build/MobileDashboard.build/Release-iphonesimulator/MobileDashboard.build/MobileDashboard-own-target-headers.hmap -I/Users/jamie/dev/iOS/MobileDashboard/build/MobileDashboard.build/Release-iphonesimulator/MobileDashboard.build/MobileDashboard-all-target-headers.hmap -iquote /Users/jamie/dev/iOS/MobileDashboard/build/MobileDashboard.build/Release-iphonesimulator/MobileDashboard.build/MobileDashboard-project-headers.hmap -F/Users/jamie/dev/iOS/MobileDashboard/build/Release-iphonesimulator -I/Users/jamie/dev/iOS/MobileDashboard/build/Release-iphonesimulator/include -I/Users/jamie/dev/iOS/MobileDashboard/build/MobileDashboard.build/Release-iphonesimulator/MobileDashboard.build/DerivedSources/i386 -I/Users/jamie/dev/iOS/MobileDashboard/build/MobileDashboard.build/Release-iphonesimulator/MobileDashboard.build/DerivedSources -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/qv/qvYwORx0F1qyBtnuKFiff++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MobileDashboard_Prefix-djhokxradwvmfmeqkxkdecqzzcrp/MobileDashboard_Prefix.pch -c /Users/jamie/dev/iOS/MobileDashboard/Classes/ToggleViewTableCell.m -o /Users/jamie/dev/iOS/MobileDashboard/build/MobileDashboard.build/Release-iphonesimulator/MobileDashboard.build/Objects-normal/i386/ToggleViewTableCell.o0#
+
+CCompileC build/MobileDashboard.build/Release-iphonesimulator/MobileDashboard.build/Objects-normal/i386/URLData.o /Users/jamie/dev/iOS/MobileDashboard/Classes/URLData.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s320019070.293877
+e320019070.398524
+r1
+xCompileC
+xbuild/MobileDashboard.build/Release-iphonesimulator/MobileDashboard.build/Objects-normal/i386/URLData.o
+x/Users/jamie/dev/iOS/MobileDashboard/Classes/URLData.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@62"Compile /Users/jamie/dev/iOS/MobileDashboard/Classes/URLData.m320019070#320019070#0(0"0(0#0#54"/Users/jamie/dev/iOS/MobileDashboard/Classes/URLData.m8665085760#2125"    cd /Users/jamie/dev/iOS/MobileDashboard    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/jamie/dev/iOS/MobileDashboard/build/MobileDashboard.build/Release-iphonesimulator/MobileDashboard.build/MobileDashboard-generated-files.hmap -I/Users/jamie/dev/iOS/MobileDashboard/build/MobileDashboard.build/Release-iphonesimulator/MobileDashboard.build/MobileDashboard-own-target-headers.hmap -I/Users/jamie/dev/iOS/MobileDashboard/build/MobileDashboard.build/Release-iphonesimulator/MobileDashboard.build/MobileDashboard-all-target-headers.hmap -iquote /Users/jamie/dev/iOS/MobileDashboard/build/MobileDashboard.build/Release-iphonesimulator/MobileDashboard.build/MobileDashboard-project-headers.hmap -F/Users/jamie/dev/iOS/MobileDashboard/build/Release-iphonesimulator -I/Users/jamie/dev/iOS/MobileDashboard/build/Release-iphonesimulator/include -I/Users/jamie/dev/iOS/MobileDashboard/build/MobileDashboard.build/Release-iphonesimulator/MobileDashboard.build/DerivedSources/i386 -I/Users/jamie/dev/iOS/MobileDashboard/build/MobileDashboard.build/Release-iphonesimulator/MobileDashboard.build/DerivedSources -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/qv/qvYwORx0F1qyBtnuKFiff++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MobileDashboard_Prefix-djhokxradwvmfmeqkxkdecqzzcrp/MobileDashboard_Prefix.pch -c /Users/jamie/dev/iOS/MobileDashboard/Classes/URLData.m -o /Users/jamie/dev/iOS/MobileDashboard/build/MobileDashboard.build/Release-iphonesimulator/MobileDashboard.build/Objects-normal/i386/URLData.o0#
+
+CCompileC build/MobileDashboard.build/Release-iphonesimulator/MobileDashboard.build/Objects-normal/i386/main.o /Users/jamie/dev/iOS/MobileDashboard/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s320019066.391019
+e320019066.571271
+r1
+xCompileC
+xbuild/MobileDashboard.build/Release-iphonesimulator/MobileDashboard.build/Objects-normal/i386/main.o
+x/Users/jamie/dev/iOS/MobileDashboard/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@51"Compile /Users/jamie/dev/iOS/MobileDashboard/main.m320019066#320019066#0(0"0(0#0#43"/Users/jamie/dev/iOS/MobileDashboard/main.m8693570752#2111"    cd /Users/jamie/dev/iOS/MobileDashboard    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/jamie/dev/iOS/MobileDashboard/build/MobileDashboard.build/Release-iphonesimulator/MobileDashboard.build/MobileDashboard-generated-files.hmap -I/Users/jamie/dev/iOS/MobileDashboard/build/MobileDashboard.build/Release-iphonesimulator/MobileDashboard.build/MobileDashboard-own-target-headers.hmap -I/Users/jamie/dev/iOS/MobileDashboard/build/MobileDashboard.build/Release-iphonesimulator/MobileDashboard.build/MobileDashboard-all-target-headers.hmap -iquote /Users/jamie/dev/iOS/MobileDashboard/build/MobileDashboard.build/Release-iphonesimulator/MobileDashboard.build/MobileDashboard-project-headers.hmap -F/Users/jamie/dev/iOS/MobileDashboard/build/Release-iphonesimulator -I/Users/jamie/dev/iOS/MobileDashboard/build/Release-iphonesimulator/include -I/Users/jamie/dev/iOS/MobileDashboard/build/MobileDashboard.build/Release-iphonesimulator/MobileDashboard.build/DerivedSources/i386 -I/Users/jamie/dev/iOS/MobileDashboard/build/MobileDashboard.build/Release-iphonesimulator/MobileDashboard.build/DerivedSources -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/qv/qvYwORx0F1qyBtnuKFiff++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MobileDashboard_Prefix-djhokxradwvmfmeqkxkdecqzzcrp/MobileDashboard_Prefix.pch -c /Users/jamie/dev/iOS/MobileDashboard/main.m -o /Users/jamie/dev/iOS/MobileDashboard/build/MobileDashboard.build/Release-iphonesimulator/MobileDashboard.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/jamie/dev/iOS/MobileDashboard/Classes/English.lproj/LayersViewController.xib
+s320019064.589216
+e320019065.129660
+r1
+xCompileXIB
+x/Users/jamie/dev/iOS/MobileDashboard/Classes/English.lproj/LayersViewController.xib
+lSLF07#2@57"CompileXIB Classes/English.lproj/LayersViewController.xib320019064#320019065#0(0"0(0#0#83"/Users/jamie/dev/iOS/MobileDashboard/Classes/English.lproj/LayersViewController.xib8687123584#630"    cd /Users/jamie/dev/iOS/MobileDashboard    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/jamie/dev/iOS/MobileDashboard/build/Release-iphonesimulator/MobileDashboard.app/English.lproj/LayersViewController.nib /Users/jamie/dev/iOS/MobileDashboard/Classes/English.lproj/LayersViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB /Users/jamie/dev/iOS/MobileDashboard/Classes/GPSViewController.xib
+s320019064.216846
+e320019064.805642
+r1
+xCompileXIB
+x/Users/jamie/dev/iOS/MobileDashboard/Classes/GPSViewController.xib
+lSLF07#2@40"CompileXIB Classes/GPSViewController.xib320019064#320019064#0(0"0(0#0#66"/Users/jamie/dev/iOS/MobileDashboard/Classes/GPSViewController.xib8693343776#596"    cd /Users/jamie/dev/iOS/MobileDashboard    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/jamie/dev/iOS/MobileDashboard/build/Release-iphonesimulator/MobileDashboard.app/GPSViewController.nib /Users/jamie/dev/iOS/MobileDashboard/Classes/GPSViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB /Users/jamie/dev/iOS/MobileDashboard/FirstView.xib
+s320019064.152943
+e320019064.588336
+r1
+xCompileXIB
+x/Users/jamie/dev/iOS/MobileDashboard/FirstView.xib
+lSLF07#2@24"CompileXIB FirstView.xib320019064#320019064#0(0"0(0#0#50"/Users/jamie/dev/iOS/MobileDashboard/FirstView.xib8693784192#572"    cd /Users/jamie/dev/iOS/MobileDashboard    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/jamie/dev/iOS/MobileDashboard/build/Release-iphonesimulator/MobileDashboard.app/FirstView.nib /Users/jamie/dev/iOS/MobileDashboard/FirstView.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB /Users/jamie/dev/iOS/MobileDashboard/LayersCell.xib
+s320019064.805728
+e320019065.257439
+r1
+xCompileXIB
+x/Users/jamie/dev/iOS/MobileDashboard/LayersCell.xib
+lSLF07#2@25"CompileXIB LayersCell.xib320019064#320019065#0(0"0(0#0#51"/Users/jamie/dev/iOS/MobileDashboard/LayersCell.xib8693480512#574"    cd /Users/jamie/dev/iOS/MobileDashboard    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/jamie/dev/iOS/MobileDashboard/build/Release-iphonesimulator/MobileDashboard.app/LayersCell.nib /Users/jamie/dev/iOS/MobileDashboard/LayersCell.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB /Users/jamie/dev/iOS/MobileDashboard/MainWindow.xib
+s320019063.666886
+e320019064.216763
+r1
+xCompileXIB
+x/Users/jamie/dev/iOS/MobileDashboard/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib320019063#320019064#0(0"0(0#0#51"/Users/jamie/dev/iOS/MobileDashboard/MainWindow.xib8667027296#574"    cd /Users/jamie/dev/iOS/MobileDashboard    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/jamie/dev/iOS/MobileDashboard/build/Release-iphonesimulator/MobileDashboard.app/MainWindow.nib /Users/jamie/dev/iOS/MobileDashboard/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB /Users/jamie/dev/iOS/MobileDashboard/SecondView.xib
+s320019063.710376
+e320019064.152528
+r1
+xCompileXIB
+x/Users/jamie/dev/iOS/MobileDashboard/SecondView.xib
+lSLF07#2@25"CompileXIB SecondView.xib320019063#320019064#0(0"0(0#0#51"/Users/jamie/dev/iOS/MobileDashboard/SecondView.xib8666130592#574"    cd /Users/jamie/dev/iOS/MobileDashboard    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/jamie/dev/iOS/MobileDashboard/build/Release-iphonesimulator/MobileDashboard.app/SecondView.nib /Users/jamie/dev/iOS/MobileDashboard/SecondView.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCpResource build/Release-iphonesimulator/MobileDashboard.app/Settings.bundle Settings.bundle
+s320019064.588424
+e320019064.633978
+r1
+xCpResource
+xbuild/Release-iphonesimulator/MobileDashboard.app/Settings.bundle
+xSettings.bundle
+lSLF07#2@20"Copy Settings.bundle320019064#320019064#0(0"0(0#0#52"/Users/jamie/dev/iOS/MobileDashboard/Settings.bundle8692787360#498"    cd /Users/jamie/dev/iOS/MobileDashboard    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks /Users/jamie/dev/iOS/MobileDashboard/Settings.bundle /Users/jamie/dev/iOS/MobileDashboard/build/Release-iphonesimulator/MobileDashboard.app0#
+
+CCpResource build/Release-iphonesimulator/MobileDashboard.app/ems.infrastructure.education.school.png ems.infrastructure.education.school.png
+s320019065.131473
+e320019065.183333
+r1
+xCpResource
+xbuild/Release-iphonesimulator/MobileDashboard.app/ems.infrastructure.education.school.png
+xems.infrastructure.education.school.png
+lSLF07#2@44"Copy ems.infrastructure.education.school.png320019065#320019065#0(0"0(0#0#76"/Users/jamie/dev/iOS/MobileDashboard/ems.infrastructure.education.school.png8693097248#522"    cd /Users/jamie/dev/iOS/MobileDashboard    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks /Users/jamie/dev/iOS/MobileDashboard/ems.infrastructure.education.school.png /Users/jamie/dev/iOS/MobileDashboard/build/Release-iphonesimulator/MobileDashboard.app0#
+
+CCpResource build/Release-iphonesimulator/MobileDashboard.app/ems.infrastructure.specialCare.adultDayCare.png ems.infrastructure.specialCare.adultDayCare.png
+s320019065.132211
+e320019065.183428
+r1
+xCpResource
+xbuild/Release-iphonesimulator/MobileDashboard.app/ems.infrastructure.specialCare.adultDayCare.png
+xems.infrastructure.specialCare.adultDayCare.png
+lSLF07#2@52"Copy ems.infrastructure.specialCare.adultDayCare.png320019065#320019065#0(0"0(0#0#84"/Users/jamie/dev/iOS/MobileDashboard/ems.infrastructure.specialCare.adultDayCare.png8692742592#530"    cd /Users/jamie/dev/iOS/MobileDashboard    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks /Users/jamie/dev/iOS/MobileDashboard/ems.infrastructure.specialCare.adultDayCare.png /Users/jamie/dev/iOS/MobileDashboard/build/Release-iphonesimulator/MobileDashboard.app0#
+
+CCpResource build/Release-iphonesimulator/MobileDashboard.app/ems.infrastructure.water.publicWaterSupplyIntake.png ems.infrastructure.water.publicWaterSupplyIntake.png
+s320019065.171261
+e320019065.219567
+r1
+xCpResource
+xbuild/Release-iphonesimulator/MobileDashboard.app/ems.infrastructure.water.publicWaterSupplyIntake.png
+xems.infrastructure.water.publicWaterSupplyIntake.png
+lSLF07#2@57"Copy ems.infrastructure.water.publicWaterSupplyIntake.png320019065#320019065#0(0"0(0#0#89"/Users/jamie/dev/iOS/MobileDashboard/ems.infrastructure.water.publicWaterSupplyIntake.png8682612096#535"    cd /Users/jamie/dev/iOS/MobileDashboard    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks /Users/jamie/dev/iOS/MobileDashboard/ems.infrastructure.water.publicWaterSupplyIntake.png /Users/jamie/dev/iOS/MobileDashboard/build/Release-iphonesimulator/MobileDashboard.app0#
+
+CCpResource build/Release-iphonesimulator/MobileDashboard.app/ems.operations.emergency.emergencyOperationsCenter.png ems.operations.emergency.emergencyOperationsCenter.png
+s320019065.139025
+e320019065.205314
+r1
+xCpResource
+xbuild/Release-iphonesimulator/MobileDashboard.app/ems.operations.emergency.emergencyOperationsCenter.png
+xems.operations.emergency.emergencyOperationsCenter.png
+lSLF07#2@59"Copy ems.operations.emergency.emergencyOperationsCenter.png320019065#320019065#0(0"0(0#0#91"/Users/jamie/dev/iOS/MobileDashboard/ems.operations.emergency.emergencyOperationsCenter.png8686119008#537"    cd /Users/jamie/dev/iOS/MobileDashboard    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks /Users/jamie/dev/iOS/MobileDashboard/ems.operations.emergency.emergencyOperationsCenter.png /Users/jamie/dev/iOS/MobileDashboard/build/Release-iphonesimulator/MobileDashboard.app0#
+
+CCpResource build/Release-iphonesimulator/MobileDashboard.app/ems.operations.emergencyFire.fireStation.png ems.operations.emergencyFire.fireStation.png
+s320019065.135129
+e320019065.183516
+r1
+xCpResource
+xbuild/Release-iphonesimulator/MobileDashboard.app/ems.operations.emergencyFire.fireStation.png
+xems.operations.emergencyFire.fireStation.png
+lSLF07#2@49"Copy ems.operations.emergencyFire.fireStation.png320019065#320019065#0(0"0(0#0#81"/Users/jamie/dev/iOS/MobileDashboard/ems.operations.emergencyFire.fireStation.png8686839168#527"    cd /Users/jamie/dev/iOS/MobileDashboard    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks /Users/jamie/dev/iOS/MobileDashboard/ems.operations.emergencyFire.fireStation.png /Users/jamie/dev/iOS/MobileDashboard/build/Release-iphonesimulator/MobileDashboard.app0#
+
+CCpResource build/Release-iphonesimulator/MobileDashboard.app/ems.operations.emergencyMedical.hospital.png ems.operations.emergencyMedical.hospital.png
+s320019065.129743
+e320019065.183205
+r1
+xCpResource
+xbuild/Release-iphonesimulator/MobileDashboard.app/ems.operations.emergencyMedical.hospital.png
+xems.operations.emergencyMedical.hospital.png
+lSLF07#2@49"Copy ems.operations.emergencyMedical.hospital.png320019065#320019065#0(0"0(0#0#81"/Users/jamie/dev/iOS/MobileDashboard/ems.operations.emergencyMedical.hospital.png8693342304#527"    cd /Users/jamie/dev/iOS/MobileDashboard    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks /Users/jamie/dev/iOS/MobileDashboard/ems.operations.emergencyMedical.hospital.png /Users/jamie/dev/iOS/MobileDashboard/build/Release-iphonesimulator/MobileDashboard.app0#
+
+CCpResource build/Release-iphonesimulator/MobileDashboard.app/ems.operations.lawEnforcement.policeStation.png ems.operations.lawEnforcement.policeStation.png
+s320019065.159179
+e320019065.207683
+r1
+xCpResource
+xbuild/Release-iphonesimulator/MobileDashboard.app/ems.operations.lawEnforcement.policeStation.png
+xems.operations.lawEnforcement.policeStation.png
+lSLF07#2@52"Copy ems.operations.lawEnforcement.policeStation.png320019065#320019065#0(0"0(0#0#84"/Users/jamie/dev/iOS/MobileDashboard/ems.operations.lawEnforcement.policeStation.png8685501440#530"    cd /Users/jamie/dev/iOS/MobileDashboard    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks /Users/jamie/dev/iOS/MobileDashboard/ems.operations.lawEnforcement.policeStation.png /Users/jamie/dev/iOS/MobileDashboard/build/Release-iphonesimulator/MobileDashboard.app0#
+
+CGenerateDSYMFile /Users/jamie/dev/iOS/MobileDashboard/build/Release-iphonesimulator/MobileDashboard.app.dSYM /Users/jamie/dev/iOS/MobileDashboard/build/Release-iphonesimulator/MobileDashboard.app/MobileDashboard
+s320019079.173007
+e320019079.265326
+r1
+xGenerateDSYMFile
+x/Users/jamie/dev/iOS/MobileDashboard/build/Release-iphonesimulator/MobileDashboard.app.dSYM
+x/Users/jamie/dev/iOS/MobileDashboard/build/Release-iphonesimulator/MobileDashboard.app/MobileDashboard
+lSLF07#2@137"GenerateDSYMFile build/Release-iphonesimulator/MobileDashboard.app.dSYM build/Release-iphonesimulator/MobileDashboard.app/MobileDashboard320019079#320019079#0(0"0(0#0#102"/Users/jamie/dev/iOS/MobileDashboard/build/Release-iphonesimulator/MobileDashboard.app/MobileDashboard8692843616#405"    cd /Users/jamie/dev/iOS/MobileDashboard    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/jamie/dev/iOS/MobileDashboard/build/Release-iphonesimulator/MobileDashboard.app/MobileDashboard -o /Users/jamie/dev/iOS/MobileDashboard/build/Release-iphonesimulator/MobileDashboard.app.dSYM0#
+
+CLd /Users/jamie/dev/iOS/MobileDashboard/build/Release-iphonesimulator/MobileDashboard.app/MobileDashboard normal i386
+s320019078.763249
+e320019079.172886
+r1
+xLd
+x/Users/jamie/dev/iOS/MobileDashboard/build/Release-iphonesimulator/MobileDashboard.app/MobileDashboard
+xnormal
+xi386
+lSLF07#2@107"Link /Users/jamie/dev/iOS/MobileDashboard/build/Release-iphonesimulator/MobileDashboard.app/MobileDashboard320019078#320019079#0(0"0(0#0#0"8693173472#1098"    cd /Users/jamie/dev/iOS/MobileDashboard    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -L/Users/jamie/dev/iOS/MobileDashboard/build/Release-iphonesimulator -F/Users/jamie/dev/iOS/MobileDashboard/build/Release-iphonesimulator -filelist /Users/jamie/dev/iOS/MobileDashboard/build/MobileDashboard.build/Release-iphonesimulator/MobileDashboard.build/Objects-normal/i386/MobileDashboard.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -framework CFNetwork -framework CoreFoundation -framework CoreLocation -framework MapKit -lz.1.2.3 -framework MobileCoreServices -framework SystemConfiguration -o /Users/jamie/dev/iOS/MobileDashboard/build/Release-iphonesimulator/MobileDashboard.app/MobileDashboard0#
+
+CProcessInfoPlistFile /Users/jamie/dev/iOS/MobileDashboard/build/Release-iphonesimulator/MobileDashboard.app/Info.plist MobileDashboard-Info.plist
+s320019063.639951
+e320019063.666814
+r1
+xProcessInfoPlistFile
+x/Users/jamie/dev/iOS/MobileDashboard/build/Release-iphonesimulator/MobileDashboard.app/Info.plist
+xMobileDashboard-Info.plist
+lSLF07#2@34"Process MobileDashboard-Info.plist320019063#320019063#0(0"0(0#0#63"/Users/jamie/dev/iOS/MobileDashboard/MobileDashboard-Info.plist8680665952#501"    cd /Users/jamie/dev/iOS/MobileDashboard    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility MobileDashboard-Info.plist -genpkginfo /Users/jamie/dev/iOS/MobileDashboard/build/Release-iphonesimulator/MobileDashboard.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/jamie/dev/iOS/MobileDashboard/build/Release-iphonesimulator/MobileDashboard.app/Info.plist0#
+
+CProcessPCH /var/folders/qv/qvYwORx0F1qyBtnuKFiff++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MobileDashboard_Prefix-djhokxradwvmfmeqkxkdecqzzcrp/MobileDashboard_Prefix.pch.gch MobileDashboard_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s320019065.257540
+e320019066.390874
+r1
+xProcessPCH
+x/var/folders/qv/qvYwORx0F1qyBtnuKFiff++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MobileDashboard_Prefix-djhokxradwvmfmeqkxkdecqzzcrp/MobileDashboard_Prefix.pch.gch
+xMobileDashboard_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@37"Precompile MobileDashboard_Prefix.pch320019065#320019066#0(0"0(0#0#63"/Users/jamie/dev/iOS/MobileDashboard/MobileDashboard_Prefix.pch8681548800#1995"    cd /Users/jamie/dev/iOS/MobileDashboard    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/jamie/dev/iOS/MobileDashboard/build/MobileDashboard.build/Release-iphonesimulator/MobileDashboard.build/MobileDashboard-generated-files.hmap -I/Users/jamie/dev/iOS/MobileDashboard/build/MobileDashboard.build/Release-iphonesimulator/MobileDashboard.build/MobileDashboard-own-target-headers.hmap -I/Users/jamie/dev/iOS/MobileDashboard/build/MobileDashboard.build/Release-iphonesimulator/MobileDashboard.build/MobileDashboard-all-target-headers.hmap -iquote /Users/jamie/dev/iOS/MobileDashboard/build/MobileDashboard.build/Release-iphonesimulator/MobileDashboard.build/MobileDashboard-project-headers.hmap -F/Users/jamie/dev/iOS/MobileDashboard/build/Release-iphonesimulator -I/Users/jamie/dev/iOS/MobileDashboard/build/Release-iphonesimulator/include -I/Users/jamie/dev/iOS/MobileDashboard/build/MobileDashboard.build/Release-iphonesimulator/MobileDashboard.build/DerivedSources/i386 -I/Users/jamie/dev/iOS/MobileDashboard/build/MobileDashboard.build/Release-iphonesimulator/MobileDashboard.build/DerivedSources -DNS_BLOCK_ASSERTIONS=1 -c /Users/jamie/dev/iOS/MobileDashboard/MobileDashboard_Prefix.pch -o /var/folders/qv/qvYwORx0F1qyBtnuKFiff++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MobileDashboard_Prefix-djhokxradwvmfmeqkxkdecqzzcrp/MobileDashboard_Prefix.pch.gch0#
+
+CTouch /Users/jamie/dev/iOS/MobileDashboard/build/Release-iphonesimulator/MobileDashboard.app
+s320019079.265405
+e320019079.268634
+r1
+xTouch
+x/Users/jamie/dev/iOS/MobileDashboard/build/Release-iphonesimulator/MobileDashboard.app
+lSLF07#2@92"Touch /Users/jamie/dev/iOS/MobileDashboard/build/Release-iphonesimulator/MobileDashboard.app320019079#320019079#0(0"0(0#0#0"8687377056#284"    cd /Users/jamie/dev/iOS/MobileDashboard    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/jamie/dev/iOS/MobileDashboard/build/Release-iphonesimulator/MobileDashboard.app0#
+

@@ -1,0 +1,10 @@
+/Users/jamie/dev/iOS/MobileDashboard/Classes/ToggleViewTableCell.m: In function '-[ToggleViewTableCell setLabel:]':
+/Users/jamie/dev/iOS/MobileDashboard/Classes/ToggleViewTableCell.m:40: error: 'detailedTextLabel' undeclared (first use in this function)
+/Users/jamie/dev/iOS/MobileDashboard/Classes/ToggleViewTableCell.m:40: error: (Each undeclared identifier is reported only once
+/Users/jamie/dev/iOS/MobileDashboard/Classes/ToggleViewTableCell.m:40: error: for each function it appears in.)
+/Users/jamie/dev/iOS/MobileDashboard/Classes/ToggleViewTableCell.m: In function '-[ToggleViewTableCell setValue:]':
+/Users/jamie/dev/iOS/MobileDashboard/Classes/ToggleViewTableCell.m:43: error: 'value' undeclared (first use in this function)
+/Users/jamie/dev/iOS/MobileDashboard/Classes/ToggleViewTableCell.m: In function '-[ToggleViewTableCell toggleValue:]':
+/Users/jamie/dev/iOS/MobileDashboard/Classes/ToggleViewTableCell.m:50: error: 'value' undeclared (first use in this function)
+/Users/jamie/dev/iOS/MobileDashboard/Classes/ToggleViewTableCell.m:53: error: 'owner' undeclared (first use in this function)
+/Users/jamie/dev/iOS/MobileDashboard/Classes/ToggleViewTableCell.m:53: error: 'toggle' undeclared (first use in this function)
